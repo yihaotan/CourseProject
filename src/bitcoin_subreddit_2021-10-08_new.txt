@@ -1,0 +1,1063 @@
+q3m1nb submission #cannabis #cannabiscommunity #weed #marijuana #thc #cbd #cannabisculture #weedporn #weedstagram #hightimes #stoner #indica #sativa #hemp #maryjane #medicalmarijuana #kush #highlife #ganja #growyourown #smoke #cannabissociety #life #dabs #weedlife #dank #highsociety #smokeweedeveryday #cbdoil #bhfyp 
+q3m2z3 submission #Bitcoin moves $2.9 million dollars in value around the globe each and every second. 
+hftmz41 comment Bitcoin uses the UTXO accounting model so the numbers don't reflect the whole truth.
+
+In the UTXO model if I have 10 BTC and I send you 1 BTC then the model counts it as 10 BTC being "transacted" : 1 btc out and 9 btc back.
+
+Utxo literally means unspent transaction. 
+hfsy1k7 comment Some of that is the money I lost 
+hfsrkvj comment Is this Blockchain data? Or exchange data? Or both? 
+hfwzgzw comment Oops this really something serious now, I think I am not that much late here. 
+hft3vki comment Sounds like a skewed stat 
+hftiqpm comment Just to give some perspective comparison to the largest financial market in the world forex moves  69.4 million dollars every second. 
+hfv9fam comment Well this is something new but I want to confirm that where does this data is from. 
+hfszlq4 comment Source? 
+hfspqcq comment Would love to know what USD looks like on this chart 
+hfv0kay comment There’s no way Bitcoin is moving 1/4 of its entire market cap every day. This is straight up lying, and we should be downvoting it. 
+q3m55l submission Am I real? Are we alive or just living in a fantasy world? 
+hft9jn2 comment Similar content has already been submitted several times. Please check the front page of r/Bitcoin and r/Bitcoin/new for previous submissions to help keep repetition to a minimum. You can also try using the search bar. Thank you.
+
+^^I ^^am ^^a ^^bot ^^and ^^cannot ^^respond. ^^Please ^^contact ^^r/Bitcoin ^^moderators [^^directly ^^via ^^mod ^^mail](https://www.reddit.com/message/compose?to=%2Fr%2FBitcoin) ^^if ^^you ^^have ^^questions. 
+hfsnw0v comment It's all bullshit because there is no true measure anymore of economic value.  Can't use gold.  How much is gold worth?  Compared to what currency?  What the fuck does that even mean then?  It means they pick and choose who has what and how much and it's been that way since they started toying with first creating stock market, and then stealing everyone's gold and then saying fuck it, who cares about gold.  Here's our Petro dollars backed by oil and bombs instead.  Now give us whatever we want, here's some money we printed. 
+hfsno0a comment A ceiling is a ceiling. You don't raise it. **You do not exceed it**. Period.
+
+If all they're going to do is raise it over and over, then, yeah, just get rid of the fucking thing. It's useless. 
+hfsnuxf comment [deleted] 
+hfsn2fh comment Of course we should get rid of the debt ceiling.  It's a dumb farce designed to be used as a political tool.
+
+I've never heard of anyone who knows how this works that actually believes the debt ceiling (a pretty recent invention) is a good economic tool. 
+hfsn0k6 comment I mean they should, it's basically how it is now just without the yearly standoff 
+
+It's purely symbolic 
+hft0n64 comment Hesitate to say it bc I don’t know for sure but I’ve heard that everyone in DC knows that the debt ceiling is a joke and will always be raised. I think, if that’s true, it’s bc we can never actually repay the debt owed bc there’s never enough money to pay it all back. Look into fiat/inflationary/fractionalized banking system. 
+hfsvnya comment >Can we all just admit that they are making it up know as they go along????
+
+Yes, most humans are, for the most part.
+
+Money is ALL (including Bitcoin) a reification.
+
+You COULD have solved a shit ton of your problems with fiat, but you didn't because of your quibbles over religious economic nonsense.You COULD fix these problems with Bitcoin, but you won't **because of your quibbles over religious economic nonsense**
+
+"Economics" is not a rigorously defined, parsimonious and predictive explanation for anything we observe.   It's as delusional as creationism, astronomy and that book "The Secret"
+
+(edit - should read "astrology" LOL) 
+hfsmsv7 comment All of the above 
+hft5wca comment TIL a lot of bitcoin don’t understand how arbitrary the debt ceiling policy is. 
+
+Arbitrary policy that allows a minority of politicians to hold the US economy hostage for political points. 
+
+Government debt is a totally different topic which needs to be addressed the ceiling is an arbitrary policy that started during WW1, suspended from 1980 to 1995, then brought back to continue the political game. 
+q3mclm submission Nayib Bukele 🇸🇻 on Twitter 
+hft2xuk comment Your submission has been flagged for removal because it doesn't meet the quality standards for /r/Bitcoin at this time. Please help keep the subreddit clean from low quality posts.
+
+^^I ^^am ^^a ^^bot ^^and ^^cannot ^^respond. ^^Please ^^contact ^^r/Bitcoin ^^moderators [^^directly ^^via ^^mod ^^mail](https://www.reddit.com/message/compose?to=%2Fr%2FBitcoin) ^^if ^^you ^^have ^^questions. 
+hfsoayh comment [deleted] 
+hfstl3j comment I believe Bitcoin can save global economy 
+hfsry9b comment Exactly, like the country of Europe and their national currency the Euro. 
+hft5bg8 comment Europe is not a country, it is a continent. 
+hfst2ls comment Or like the Afro in Africa! 
+hfswo36 comment [deleted] 
+hftpzao comment Whoosh 
+hfswpvv comment [deleted] 
+hftq0g8 comment Whoosh 
+q3mewa submission I need some help here. 
+hft3fo5 comment > How can you divide that number in half 29 consecutive times without getting a fractional number that pools will not be able to pay to miners
+
+The halving does not affect pools' payments to their members  
+
+Every Bitcoin amount is an integer count of Satoshis. There are no decimals. In the software halving is implemented using a programmer's trick known as bit-shifting. The original reward amout is 5,000,000,000, which is like this in binary  
+
+    0000000000000000000000000000000100101010000001011111001000000000
+
+The current halving period shifts this 3 bits to the right
+
+    0000000000000000000000000000000000100101010000001011111001000000
+
+which is 625,000,000 Satoshis, which is 6.25 BTC  
+
+Every time the right-wise bit-shifting drops a '1' bit off the end, the effect is the same as halving an odd number and rounding down - integer division, no decimals  
+
+There are 11 '1' bits, so eleven of the 33 halvings will be "rounding down"  
+
+See the second table on this page  
+https://en.bitcoin.it/wiki/Controlled_supply
+
+> Does anyone knows the payment per TH that will be paid to miners in 8 halving ahead?
+
+This question makes no sense. The Bitcoin reward per block will be 0.02441406, and the number of blocks will be 144 per day. The hash rate of the mining network is unpredictable 
+hfsq33y comment It would depend on how much hashrate there is at that time. 
+hfszv0i comment The last whole Bitcoins will be mined in about 2032.  The block reward will then be about 0.78 Bitcoin or 78 million Satoshi.  Gradually then suddenly things will be priced in Satoshi/Sats. 
+hft2o1m comment Pools don’t pay miners and I’m not sure you understand how mining works. The sats/TH will vary widely depending on the number of miners in the network, the hash rate of those miners, the difficulty etc etc etc etc 
+hfsr973 comment 2140 is the last year 21mil btc are mined? 
+hft6v3o comment Thank you for your answer. I already read the info from the link. All clear now. The question mainly was to find out the amount of BTC per TH but is irrelevant due to the reward size per block diminishes a lot while time goes by. 
+hfsqe7e comment Probably the adjustment between hash rate and difficulty will adjust the reward per TH accepted. But I still need to see where scenarios can be predicted to see it in a simulation. 
+hfsrdr1 comment Yes 
+hftre5u comment The reward per block is (every halving cycle) constant, currently at ₿6.25
+
+The hashrate OTOH isn't. It's changing every single minute https://bitinfocharts.com/comparison/bitcoin-hashrate.html
+
+You can calculate the amount of BTC per TH in the current second but it won't be the same as last nor next month. 
+hfsqryz comment You know how much btc will be paid out then. But you can't know network hashrate. It could be 1000 times what it is now. 
+q3mfv7 submission BTC 
+hfspzyx comment ***Individuals*** should buy actual Bitcoins and send them to their own wallets.  
+
+Forget the old "my country vs your country" bullshit. 
+q3mhgv submission BTC and wealth inequality 
+hftaibh comment contrived virtue signalling 
+hfspt57 comment No. Your little model with just two classes is not correct. 
+hfsv6tc comment They're not letting me play as many downs as Aaron Donald. Is that inequality, or what! 
+hfsqwnp comment [deleted] 
+hft3eys comment It’s not binary, or bimodal even.  Plenty of people in the middle buy btc 
+hftwsfb comment Go become rich and don’t worry about others lol 
+hfsu3g0 comment Anyone paying attention can see the lure of bitcoin. The poor and the rich pay outsized attention to their money. 
+hfssv27 comment It's not a model. It's just noticing two things. Like you can notice that baseball and football are things that exist... without talking about hockey or track or other things which one might consider "sport". 
+hfsta8o comment Yeah, I heard this same stuff in college too. Real world experience hasn't supported that assertion. The powerful want the poor to stay poor. The wealthy just want to keep their wealth. Yes, there is a Venn diagram where wealth and power overlap, but I think it's important to make the distinction. 
+hfsukez comment It is a mental model that exists inside your head. 
+q3mjhi submission Christie's ETF.. 100milion sell by my id.. and that I'd is used by low profile email.. 👀 but I cant login ever.. start from email .. and email again .. and all my assets are stack 😊😊😊 i don't comment so much about this happening .. my work so far is not illegal work .. 
+hfsptzt comment stuff bitcoin .. dont delete di post .. i need to explain a bit.. here.. I need all know .. 
+hfsqjdy comment as long as we work in bitcoin .. we do a very careful work2 .. almost never make a little mistake ... but I just kept quiet all this time they by all bitcoin assets they have completely blocked .. while we know this cryptocurrency has advanced in  the whole world ... we also know that cryptocurrency is wrong to know the world's currency economy ... 
+hfsritk comment I am honest from all bitcoin parties .. if I want I can showdown the popularity of bitcoin in the global market world .. we work for the benefit of everyone .. all countries .. and it can be said that all bitcoin staff don't get anything as long as they work ..  only get a small profit ... that's because if our main assets are blocked ... I will not hesitate to close the whole thing completely 
+hfsrzfv comment thank you...
+
+
+Satoshi Nakamoto 
+By team bitcoin world cryptocurrency 
+q3mk17 submission Coinbase is corrupt 
+q3mkr5 submission How do you tracks short and long positions? 
+hft0bs7 comment you don't track them all because not all are publicly disclosed. some exchanges that offer leverage also have a data source on their website you can use.  
+
+and you make assumptions about margin calls based on the chart. 
+hft8dgb comment It's not easy to do this.  You have to make a lot of assumptions when dealing with incomplete data in order to try and predict things like this.  Even then, it's a game of probabilities and astute guesswork. 
+hfufvoy comment I find it very easy to track everything because I just hodl. 
+hfspon7 comment I don't.  There's no need. 
+hfsqesx comment I get it. Stack and hold. Looking to determine a new buy-in position. If shorts get liquidated then I want in right beforehand. 
+q3mlbr submission Investment company 
+q3mot4 submission Add Bitcoin to New Jersey's Balance Sheet says US Senator Candidate 
+hfsrtg7 comment States shouldn't add anything to any sheet until everything in the state is fixed. If they have money to buy internet tokens they have money to make sure homeless have somewhere to live and something to eat. 
+hfsqhrm comment Thanks for the quick read 
+hfuslp4 comment Broaden your perspective in my opinion. Might it be possible that bitcoin would help things like you mentioned get accomplished without decimating the economy? 
+q3ms7z submission money 
+q3msnp submission Crypto will conquer Central Banks! 
+hfss8g2 comment Oh hey there GPT-2 lmao 
+hfssg22 comment How many presidents have the central banks killed? 
+hftwqc9 comment We hope 
+hft3772 comment Bitcoin, not crypto. 
+hfsyvco comment This decade.... or like forever?? 
+q3mtoq submission Senator Cynthia Lummis discloses a bitcoin purchase worth up to $100,000 
+hfsucnk comment tldr; US Senator Cynthia Lummis, a Republican from Wyoming, has disclosed a purchase of bitcoin worth between $50,001 to $100,000. The purchase was disclosed outside of the 45-day reporting deadline set by The Stop Trading on Congressional Knowledge (STOCK) Act. The act requires members of Congress to disclose the purchase and sale of individual stocks, bonds and commodity futures within 45 days.
+
+*This summary is auto generated by a bot and not meant to replace reading the original article. As always, DYOR.* 
+hftaolw comment this is why housing is favorably taxed in a lot of countries because politicians have several 
+hftg5a1 comment They sure seem to be emphasizing the “outside the 45 day” thing in that article, but really does Bitcoin even fit under that law?  It isn’t a “stock, bond, or commodity futures” - it’s none of the listed things requiring reporting under that law so her disclosing it at all is going above and beyond what seems to be legally required as of right now. 
+hft9s5p comment Is she married 
+hft1gmb comment Clever girl! 
+hfuxkw1 comment This woman fucks! 
+hft8o2c comment Legend. 
+hfw9mk6 comment They shouldn’t allow any senators to buy any kind of crypto or stocks. They always let these people get away with that crap. Insider trading up the ass. 
+hfti76z comment not even 2.
+
+she bought almost 2.
+
+don't make 100,000 sound like a lot of money.
+
+LOL 
+hftyo6z comment Bitcoin is on track to 1 Billion users by 2024, by then a stance against it will be political suicide. 
+q3mtup submission U.S. Senator Lummis Purchased $50,000 to $100,000 in Bitcoin in August 
+hfssu2t comment > ...requires members of Congress to disclose purchases and sales of stocks, bonds and commodity futures...
+
+Which of those three is Bitcoin? 
+hft0uw3 comment Walkin the Walk. 
+hft96ob comment she a whale 
+hfswzcu comment Who cares 
+hfsusiy comment Is that illegal? 
+hftwp1k comment Good 4 her 
+hfubg9a comment largest "public" purchase? 🤔
+
+I feel like some of these snakes have been buying crypto for years. 
+hfudb0k comment What was the price on Aug 16? 
+hfuop1l comment Big spread. Must have used BlockFi 
+hfvms9i comment So 50 or a 100? Lies. More like a million. 
+q3mv0t submission Canada Mulls $7 Million Fine for Illegal Bitcoin-Mining Power Plant 
+hfsw10h comment How much bitcoins did they mine? 
+hftwogy comment You know what they say on South Park lol 
+hfsucgj comment tldr; Alberta authorities are reportedly considering a $7.1 million fine for a company that secretly operated a Bitcoin-mining power plant in Alberta. Link Global set up four 1.25-megawatt generators powered by "a dormant natural gas well" at one site in 2020 "without notifying neighbours, the county, or the Alberta Utilities Commission." It then established two sites in other locations.
+
+*This summary is auto generated by a bot and not meant to replace reading the original article. As always, DYOR.* 
+hfsxwm1 comment retards, if they license them they could earn more than $7 mill 
+hftes7s comment Not much because the people next door complained of huge noise and got busted right away 
+q3mvk3 submission what's a good digital wallet? 
+hfsrz60 comment Paper wallets are obsolete. Wallets are about as safe as what they run on. See bitcoin.org. Electrum is a good wallet. 
+hfsxbpz comment 1. it's called a software wallet  
+
+2. paper wallet are not recommended anymore. they aren't more convenient, and they create the risk of loss and confusion because people don't know how to use them properly.  they offer zero advantages over using a mnemonic phrase from an open source software wallet.    
+
+3. you don't need a printer. a paper wallet is generated on the screen. you can write the address down. in fact that's recommended over printing it because printers are not secure devices.   but again, paper wallet are not recommended. download and verify an open source wallet like electrum (widely used and tested; and easy to get support for). generate the mnemonic phrase. back it up to paper.  and now you have a fully functional wallet, with countless addresses instead of just one (as you get with a paper wallet) which you can use on any device as long as you have the mnemonic phrase (save the name of the wallet software too. this will reduce potential issues regarding cross-compatibility). 
+hft047o comment Electrum  
+
+Never use paper wallets 
+hft5isw comment I recommend using Coinbase Wallet because it has DeFi on it 
+hftxihe comment Exodus? 
+hftmksz comment Maybe I have a different definition of paper wallet but I can definitely use more than one address by generating the transaction with an xpub and signing it on an offline machine.
+
+More work but more secure too. 
+q3my5w submission Can anyone explain ? 
+q3mywk submission just looking at the charts and found this 
+q3mzr2 submission Home burglary is not something unusual in my region, isn’t it safer to keep my BTC on an exchange rather than on a cold wallet? 
+hfsugtm comment Yes, it’s generally safe.  Every system has trade-offs.  If you legitimately fear for the safety of your home then having a reliable custodian might be a better option than holding your own keys.
+
+Just run the risk assessment of whether you think it’s more likely that your seed phrase gets stolen or destroyed in your house or that your custodian might get hacked or fail you.
+
+You might also look into the option of Multi-signature custodians where you hold one or two keys but need to log into their system to execute a transaction with the 3rd key that they hold. 
+hft3w14 comment I promise you a burglar is not looking for a piece of paper with a seed phrase. They are looking for valuables like cash and jewels. Safe deposit box is good unless you are doing illegal activity’s. In that case you don’t want the possibility of being raided and then they access your box then they see you have a piece of paper with phrases. They’ll understand what that is. But at home, whose gonna search for a piece of paper? I say keep it on a metal plate just in case a fire happens. And store that plate somewhere good and unrecognizable. Just my .02 
+hfsysv5 comment Safe deposit box at local bank. 
+hft5oz3 comment Why don't you take some of the money you'd buy BTC with and purchase a security system, some weapons and some training. You know, means to defend yourself, your family and your home like a man... 
+hfsvczr comment You can easily and securely store your Bitcoins in a good hardware wallet, for example, Trezor, Ledger, Coldcard, etc.  
+
+You can buy a hardware wallet with a PIN, which will "brick" itself after a few attempts at brute forcing the PIN.  
+
+Your Bitcoins exist on the ledger, technically, not inside your wallet.  The wallet stores your private keys, which are necessary for sending/spending your Bitcoins.  Thus, as long as you have backed up your seed phrase properly, you can still get to your Bitcoins if your home gets robbed, or burns to the ground, or washed away in a flood, for example.  
+
+The ***last*** thing you'll want to do is store your Bitcoins on somebody else's equipment. 
+hft3xhm comment You know, I had the idea to make a small “micro safe” that can store a seed phrase or two, that would be made of metal and screw into the wall stud. 
+hfszuie comment 1. get the fuck out of that hellscape. private property is the basis of human civilization.  you're living like an animal.  
+
+
+2.  they will steal your kraken login the same as they would steal your the keys you have written down.  the bitcoin is not actually stored anywhere. the access to them is. and giving your bitcoin to a custodian just expands the attack surface to twice the size at least. because now you can access your bitcoin and they can access your bitcoin.     
+
+Does nobody have valuables where you live? Do you have a tv or jewelry or a car?    
+
+There are some security measures you can take (aside from leaving or securing and defending your home properly) but they depend on your ability and willingness.  there are multi-sig solutions which can allow you to have the access to your bitcoin split among any number of keys, and therefore any number of locations. for example, you can create a 2-of-2 or 2-of-3 multisig wallet where you give 1 to a trusted friend or relative, and another perhaps in a bank vault or with a paid custodian (there are specific services out there who do this for bitcoin. i think bitgo is one of them who have been around for many years).   another option is to passphrase protect your wallet and hide the passphrase somewhere a thief won't find it (but a place you won't forget).  the passphrase option gives your the added benefit of a "decoy" wallet which you can leave empty or put just enough funds there to fool and appease an attacker who may be coercing you. 
+hfstho0 comment It doesn't matter if they steal your ledger/Trezor. 
+
+If they don't have the keys they can't access. 
+hft2cuk comment What about black light reactive invisible ink? 
+hfsz4zs comment It must be that time of the month for Coinbase. They're short of Bitcoin, struggling to fund withdrawals, so they're paying shills to tell people that it's safe to store Bitcoin in an exchange account  
+
+A lie is a lie, whatever fee you're earning to post this trash
+
+> isn’t it safer to keep my BTC on an exchange rather than on a cold wallet?
+
+Bitcoin in an exchange account is not safe at all  
+
+Post again same time next month 
+q3n2ps submission The past 3 pumps were 5.2 days apart to the pixel! 
+q3n3au submission Brutal truth about Bitcoin 
+q3n48f submission The last 3 pumps were each 5.2 days apart to the pixel! 
+hft2ns2 comment Your submission has been flagged for removal because it pertains to general trading or market discussion, whereas r/Bitcoin tries to be less price oriented. Please visit r/BitcoinMarkets. Thank you.
+
+^^I ^^am ^^a ^^bot ^^and ^^cannot ^^respond. ^^Please ^^contact ^^r/Bitcoin ^^moderators [^^directly ^^via ^^mod ^^mail](https://www.reddit.com/message/compose?to=%2Fr%2FBitcoin) ^^if ^^you ^^have ^^questions. 
+hfsxvfe comment MS paint based TA for the win! 
+hfsuxn1 comment Uhh... okay? 
+hfsyjee comment Steps 
+hft0c1s comment Needs more lines. 
+hfszac9 comment just zoomed in and did a punch of pixel counting with width to determine how many pixels was a day and did the math 
+hft1vdq comment oh i used lines. but this was the cleanest way i knew how to present it to you kind people🤨… with the width pixel 🙌🏼 
+hfszegy comment Oh no, i meant they look like steps with the way theyre so symmetrically spread out lol 
+hfszjan comment oh. ya, lots of charts look like steps sir. but you must be a carpenter😊 
+q3n53k submission Guys I know we’re holding but… 
+q3n6r6 submission Learning crypto at 35 
+hfsv1jm comment [deleted] 
+hfsufvh comment 38 and just started 
+hfsuw1h comment Buy Bitcoin, just Bitcoin and no alt-coins. 
+hfsvp5a comment Nice work. 
+q3ndob submission CREDIT REPAIR 
+q3nfih submission I don’t know why this happened and I hope it’s a bug. Anyone else with this issue? 
+q3ngg0 submission #Bitcoin#Coinbase#crypto#huobi#Binance 
+hfubb2i comment Your submission has been flagged for removal because it doesn't meet the quality standards for /r/Bitcoin at this time. Please help keep the subreddit clean from low quality posts.
+
+^^I ^^am ^^a ^^bot ^^and ^^cannot ^^respond. ^^Please ^^contact ^^r/Bitcoin ^^moderators [^^directly ^^via ^^mod ^^mail](https://www.reddit.com/message/compose?to=%2Fr%2FBitcoin) ^^if ^^you ^^have ^^questions. 
+q3nkhe submission Install CryptoTab browser and get real Bitcoins for using it. Your earnings will keep growing as long as you're watching YouTube, reading news and using your social network accounts daily. 
+q3npvn submission Institutional Investors Dump Gold for Bitcoin Seeing It as Better Inflation Hedge 
+hft2iho comment Funny how the bankers say it has no value but have no problems acting as a middle man to extract value from their clients buying something that has no value. I love how principled they are. 
+hft1ocr comment tldr; JPMorgan says institutional traders are returning to bitcoin, seeing the cryptocurrency as a greater inflation hedge than gold. The agency's analysts describe three key drivers pushing the value of bitcoin from about $40K to about $55K in a brief time frame. JPMorgan CEO Jamie Dimon believes that bitcoin has no intrinsic worth and regulators will “regulate the hell out of it”
+
+*This summary is auto generated by a bot and not meant to replace reading the original article. As always, DYOR.* 
+hftrn43 comment First you laugh at them. Then you fight them. Then you make these kinda statements. 
+hft0dyu comment Obviously! 
+hftifty comment [hedge funds turned net long BTC since late July.](https://bastion.substack.com/p/bitcoin-price-bias-wrt-cme-positions) 
+hftv6uu comment That's really good, I also use USDT because it's much more convenient now than having gold and problems with it 
+hfv4y4s comment Lower price of gold is good for the economy, it means it’s productive uses like electronics are cheaper. 
+q3nqjx submission Pro-Crypto Senator Lummis Discloses Bitcoin Purchase Worth Up to $100K 
+q3nyse submission Salvadorans have more Chivo Bitcoin wallets than Bank accounts! 
+hfta6r9 comment It is great how bitcoin is expanding in El Salvador. For that same reason we should promote to El Salvadorans to hold their keys and keep them in hardware wallets, rather than on a centralized wallet. A centralized wallet may entail a big vulnerability. 
+hftx36i comment When BTC spiked to $55k on Wednesday, I checked on Bukele’s twitter and the people’s comments in there. Saw a lot of Salvadorans making money from the initial $30 given to them. Some even put their own $$ on BTC, earning them more. It’s really good see them realizing the benefits of holding their money in BTC. 
+hft7dwx comment For good reason 🤷‍♂️ 
+hftdaga comment Liberation loading…. 
+hftnne8 comment Bitcoin allows anyone in the world to be their own bank.
+
+It's really amazing that anyone in the world can become a merchant and sell their goods and services for free.
+
+No need to pay any fees to any banks to get your money. No visa or mastercard fees, no western union fees, no paypal fees, nothing. 
+hft046p comment ~~Bitcoin~~ Free $30 popularity is growing and there is no stop to it! 
+hfuhdgo comment Mfw i actually thought those promoting Bitcoin for the unbanked were selling vaporware.!
+
+Lo and behold 
+hftb6nr comment There is another post from a guy that lives there. The truth may be totally different, sadly. It looks like there are many issues that are not fixed (unrelated to Bitcoin). Chivo app appears to have a lot of issues with security, etc. 
+hfto9ci comment Not saying all is perfect with the implementation, but in the cryptocurrency subreddit they are spreading obvious biased FUD about el Salvador implementation....
+
+I guess shitcoiners are nervous about Lightning growth. 
+hftocum comment pretty compelling 
+q3o0gm submission If you buy $50 worth of Bitcoin right now, you’ll have $1000 when a full Bitcoin reaches to a price of a million dollars, which is inevitable… We’re still early people, it’s not too late! 
+hft0t8m comment Rack me up a line of that hopium 
+q3o4fx submission Why didn't the dutch bailout the Tulip holders and debase the currency? 
+hft267i comment It was a short lived issue affecting very few. It was unprecedented and made history for that reason. 
+hft5gyj comment If only because they were still on gold and silver back then. It takes a lot of time and work to re-melt all the coins in order to debase them. The Roman empire regularly did that, however. Not to solve a sudden crisis or emergency but to fund recurring deficits. 
+hftamss comment because govt was tiny back then, and officials would be hung from stakes if they tried. 
+hft2zcv comment Because it was purely a speculative bubble and didn’t largely impact the global economy. 
+
+Whether you like it or not, bailing out the banks was the correct choice, America’s tax payers made a profit on the funds they LOANED to the banks and we also recovered faster than countries that didn’t bail their banks out. Aka, we saved people from suffering by bailing the banks out. Did it have negative consequences? Of course. But overall, it was a good thing for our economy and our people. 
+hfuf4sm comment Umm . . . you should learn the history of it.  The whole bubble was caused by government interfering in the futures contracts market.
+
+https://www.economist.com/free-exchange/2013/10/04/was-tulipmania-irrational
+
+> Earl Thompson, formerly of UCLA, takes a different approach. He reckons that the market for tulips was an efficient response to changing financial regulation—in particular, the anticipated government conversion of futures contracts into options contracts. This ruse was dreamt up by government officials, who themselves were keen to make a quick buck from the tulip trade. 
+
+> In plain English, investors who had bought the right to buy tulips in the future were no longer obliged to buy them. If the market price was not high enough for investors’ liking, they could pay a small fine and cancel the contract. The balance between risk and reward in the tulip market was skewed massively in investors’ favour. The inevitable result was a huge increase in tulip options prices (see below right). (The price of options collapsed when the government saw sense and cancelled the contracts.) Spot prices (the price that traders paid for immediate delivery of tulips) and futures prices (the prices that traders would be compelled to pay for future delivery of tulips) were not volatile. And any movement of the spot/futures price was determined by simple supply and demand—the fall-out from the Thirty Years’ War, one of the bloodiest in European history, was one important factor.
+
+> Thompson argued that popular interpretations of tulipmania have failed to distinguish between options and futures. Tulipmania was only a contractual artifact. There was no “mania” at all. 
+hftfrc9 comment It actually never happened as often portrayed:
+
+https://www.smithsonianmag.com/history/there-never-was-real-tulip-fever-180964915/ 
+hftodot comment Or eaten.... It's the Netherlands after all. 
+hft4c72 comment Maybe short-term.  Long-term, the bailout sent a very clear message that profits are privatized while losses are socialized. 
+hft49fn comment I dunno about the profit, but I heard the bailout funds were repaid. And I agree about bailing out strategically important institutions. However..
+
+AIG got bailed out because it owed money to Goldman Sachs. Henry Paulson, the treasury secretary at the time, did the whole TARP funds and bailed out AIG and others. AIG employees had a huge expensive bash after that. And then AIG paid $10B it owed to Goldman Sachs. Paulson was a CEO at Goldman earlier. Conflict of interest is lost on no one. That kinda shit was why people didn't like the bailout. 
+hfth6y6 comment https://www.youtube.com/watch?v=nrUknL2P8zw
+
+Watching this documentary about tulip bubble history. Lots of details. It was trading of bulb *futures* not trading actual bulbs. 
+q3o4ka submission Subreddits for technical discussions on bitcoin tech? 
+hft2ib1 comment This is that subreddit. You're more than welcome to discuss technical topics here. It would be a nice reprieve from the price obsession posts. 
+hfta09w comment do you have something technical you want to discuss?  why wouldn't you just start a discussion and see what happens? have you been put off by your superficial analysis so far? 
+hfu356m comment This is the place! 
+hftal17 comment Yeah if this isn't a good place for it, which it seems like it from the more recent posts, I didn't want to get lynched. 
+hftlqjs comment No please do. The only reason people don't discuss the tech is because... people don't discuss the tech. You're welcome to change that, It'd be a good change of pace 
+hftd7jq comment So you want to discuss something that may be controversial and need a safe space? Reddit karma is meaningless in the grand scheme of things. 
+hfup10t comment There are some very knowledgeable people in this sub. Not everyone is a smooth brained moon boy. 
+
+See my post from yesterday, it was satisfactorily answered. 
+q3o9fj submission New Bitcoin ATM operated by Black Swan Bitcoin in San Francisco CA Mission District! 2524 Mission St, San Francisco, CA 94110, USA 
+hft5yul comment I’m going to be in that neighborhood on Saturday might have to check it out. 
+hftd9bj comment 8% premium still ? 
+hft3sns comment Or buy Bitcoin with cash. 
+hftborl comment We have very competitive rates and we also cover the mining fees and liquidity fee unlike many other operators in the space. 
+hft294w comment what's the point to buy bitcoin to turn it to cash ?? 
+hftwj7b comment Apparently you can advertise here now? 
+hfu9thc comment If I buy Bitcoin using Coinbase or Binance then what would be the cost of the transaction? 
+hfvhhrq comment Can you link to your fee structure? 
+hft5acr comment I'm sure they don't charge any fees. 
+hft8qeu comment For a full 14% commission 
+q3odzx submission I synced my lights to bitcoin 
+q3ohtt submission Buckle up!! SEC approves Volt Equity ETF providing exposure to Bitcoin-centric companies 
+hfta0q0 comment Nothing remotely close to a spot price ETF, doubt it will have any affect on price. 
+hftbcx8 comment No. They approved a “Bitcoin-Companies ETF” literally an ETF of companies that have exposure to Bitcoin. 
+
+Probably TSLA, TWTR, SQ, MSTR and some mining companies like RIOT and MARA. Its an ETF, but its not a Spot Bitcoin ETF. 
+
+If you are hoping for an ETF approval of any kind you want a spot ETF approved - Not a futures ETF or this “Bitcoin Companies” bullshit ETF 
+hft5jey comment Source? 
+hfteync comment Doubt this has a positive impact on the price of BTC. 
+
+BLOK is not that dissimilar.  Only a fraction of the revenue generated by the marginal increase in the sale of stocks through the ETF will find its way to Bitcoin asset purchases. 
+
+Need more trust style investment vehicles to continue vacuuming up BTC steadily creating increasing pricing pressure and reducing available Bitcoin. 
+hftbrne comment Thanks for explaining! 
+hft5yf9 comment Just posted 2 hours ago. By Well trusted YouTuber altcoindaily. https://youtu.be/qaCRfEoZVm8 
+hft9bmq comment he's not a source. where is the source? 
+hftalbw comment He’s reading from [this article](https://decrypt.co/82864/sec-bitcoin-etf-volt-tesla). 
+q3ona1 submission Cold card 
+hftuny6 comment You can.  
+
+You do not need a desktop nor a laptop.  In fact, you can move funds off coinbase with just your ColdCard.  You don't technically even need a cellphone, although it's nice because the phone will be able to verify that you have succeeded to move funds.  
+
+I wrote these instructions up for a friend of mine who lives out of his truck and doesn't own a PC.  Sorry a bit long winded but maybe useful to you, too...
+
+     # # # # #
+
+Below I've outlined the steps to get your BTC address from the ColdCard and a watch-only wallet on your phone.  
+
+Recommend you start with a small amount of BTC, USD 25.00 or so, (which today is around 0.0005 BTC or 50K Sats).  Wait a half a day or more for Coinbase to transact on Bitcoin Mainnet and then wait 6+ confirmations.  Transfer larger amounts after that.  
+
+Steps:
+-----
+
+1. Setup and initialize your ColdCard.  Choose a pin, generate seed words. CoinKite's documentation explains pretty well how to backup your seed words, etc.  You don't ever need to connect your ColdCard to the internet, nor a PC, just power.  My 2c, firmware updates are neither required nor recommended.
+
+2. Next you'll get your ColdCard to display a QR code representation of the wallet which your phone can scan with its camera (note this is safe because it does not reveal your seed words, private keys, nor anything that is kept safe inside the ColdCard)
+
+A) On your now prepped and initialized ColdCard, navigate to "Address Explorer".
+
+B) Press 4 to start.
+
+C) Select the fourth choice (just above the 5th choice "Account Number") which will be an SegWit Native address, and will start with "bc............."
+
+D) Press 4 to view QR codes.
+
+This first QR code displayed is a public Bitcoin address where you may send funds.
+
+3. Move funds off Coinbase.
+
+At this point you can request Coinbase to send a small amount of BTC to this address.  Be careful to type the address exactly, and double check, because sending from Coinbase will be irreversible.  You can also do step 4 first so you can triple check the BTC address.
+
+TIP: Assuming this transfer works, the next time you can use Coinbase's remember BTC address feature to avoid mistakes.
+
+CONCEPTUAL: Remember you are not physically moving BTC funds to your ColdCard nor to your BlueWallet App.  You are moving the funds to a BTC address which is derived from your seed words.  Presently this just happens to be managed by your ColdCard.  Next we'll use the same to display the BTC address on your phone via the BlueWallet app.   If your phone bricks or your ColdCard dies, you can always manage the same BTC address by initializing another hardware wallet or software wallet from your seed words.  Again we just happen to be using ColdCard and BlueWallet, but technically any wallet could work.
+
+4. Next, you'll scan the QR Code with BlueWallet on your cellphone to watch the same BTC address.
+
+IMPORTANT: Never enter your seed words into BlueWallet.  Because your phone is connected to the internet and could potentially be compromised.
+
+A) Install and launch the BlueWallet app.
+
+B) Click the "+" in the upper right to Add Wallet
+
+C) Click the text at the bottom, "Import wallet"
+
+D) Click the text at the bottom, "Scan or import a file" 
+
+E) Point the camera at the ColdCard display. (You may have to move around and mess with the ambient lighting to successfully scan)
+
+Bluewallet will show a new wallet "Imported Watch-only".  By the way you can view the BTC address on this wallet which is the same address shown with the QR Code on the ColdCard, except it's easier to read, bigger font.  With Bluewallet you can refresh from time to time and watch as the Bitcoin transfers and watch as the confirmations come in. Be patient, as Coinbase can take a while to send and confirm.  With other exchanges, I've seen BTC funds move in a few minutes, where Coinbase I've had to wait overnight.  YMMV.
+
+TIP: If you are doing larger amounts of BTC on Coinbase, then also ideally you should also lock down your Coinbase account login with YubiKeys (for example, buy and register three YubiKeys, use one, and keep the other two for as backups for safekeeping).
+
+I believe the steps I've outlined will get your BTC safely off of Coinbase so you can "hodl".
+
+ADVANCED: With a little more effort you can setup BlueWallet to also spend your BTC, too. Delete your BlueWallet watch-only wallet and recreate as follows:  Use an SD card add wallet by transferring your wallet information instead of by QR code, so you would press 1 instead of 4 on step 2(D) above.  Then you would need to upload the SD card to the cloud via googledrive or dropbox then can load file from BlueWallet.  Now instead of "watch-only" the wallet will display "ColdCard".  After recreating this way you should be able to SPEND where you create an unsigned transaction (aka, PSBT) via BlueWallet that you would shuttle via SD card to be signed by the ColdCard and then shuttle back for broadcasting via BlueWallet. 
+hft8sfu comment  Nano X connects via Bluetooth for android or iOS. 
+hft5l7h comment You might be able to plug it into any 5 volt USB power brick. It just needs power to run. You do need to load latest firmware ideally right away, and that goes on microsd card. After then you probably can set it up just using its screen, backup the seed words, and get an address qr to send to. 
+hftfd1m comment I’ve seen people get the micro sd with an iPhone converter and move them from Blue Wallet app 
+hfu9feg comment That looks easy. 
+hfurq7o comment Wow, thanks 
+q3oon5 submission Investing in Bitcoin related stocks is better than collecting sats right now 
+hft5q00 comment >10,000 stocks
+
+10K *shares* of 1 stock. 
+hft5y2g comment Do you even Bitcoin? 
+hftms2t comment Suck sat wang 
+hft6buz comment [deleted] 
+hft7g11 comment Nah he's all about bitcoin well, whatever the hell that may be. 
+hft6rti comment These companies are not worth their share price. It's only the hype. Unlike trying to value bitcoin you can value companies by looking at revenues, expenses, profits.. And it's companies that MUST forever invest in better hardware which is a huge capital expense, and they will lose 50% of revenue every 4 years on halvings.. 
+hft93ne comment These guys are actually a Bitcoin atm company run out of Edmonton alberta. As long as Bitcoin ain’t going away these guys ain’t going away 
+q3oq27 submission Look For A Place To Stay In Miami For The Bitcoin 2022 Conference. 
+q3ougp submission What do you think are the odds of Bitcoin Going to 100.000 in the next year. 
+q3ozaq submission Bitcoin miners 
+hft7xry comment Unless you have cheap energy or subsidies, know about electricity and electronics or have alot of money to hire someone especialized to help you, in my honest opinion, it’s not worth it. 
+hft91w4 comment Here is a very indepth article about mining from home. Should probably read this first to make sure this is something you want to do 
+
+https://www.econoalchemist.com/post/home-mining-for-non-kyc-bitcoin 
+hftvywj comment Direct from the manufacturer or off Amazon, or I’ve bought through MinedPool Technologies for machines I host there with good results also. Probably other good spots also out there. Don’t work with scammers shilling compass mining is the main thing to avoid. Hope u get a good 1 
+hfte606 comment Compass 
+hft8598 comment Thank you for your input.  Have you tried using one in the past? 
+hftb5j8 comment Thank you. 
+hfunaxa comment Thank you. 
+hftwhro comment 🤮 
+hfth09e comment Thank you.   Have you used them? 
+hft98xs comment Not the OG commenter but running an ASIC in your house isn’t an efficient way to get Bitcoin. 
+
+IMO the best place to buy one is through Compass Mining. It’ll cost around $9k with an ROI around month 10. You buy, they host, the machine is yours and all of that. Hosting fee covers the rack space in the facility you choose. 
+q3p9oh submission PETER SCHIFF | We're About To Suffer Worse Than I Thought 
+q3pgva submission Alerts for BTC price changes by percentage: alert is triggered during any time period or from the time alert is created? 
+hftb534 comment No it will look for differences in last 24 hours and will keep on doing that for as long as you have it set. 
+hftoihc comment I use tradingview. You can set an alert for a rise or drop % over time period. 
+hftboit comment Okay - so, it will continue to check for changes at the end of every 24-hr period that passes? 
+hftp50i comment Thank you!! 
+hftbwof comment uh-huh 
+hftc20z comment Thanks! 
+q3phm4 submission The SEC just approved the closest thing to a US bitcoin ETF you can buy, for now 
+hftblqa comment gbtc is much closer to direct bitcoin exposure than this. even mstr is probably better than this. 
+hftczmi comment Although this is a strong bullish signal, we have already gone through a round 
+hftchnc comment Still don't see BTCR ticker. 
+hftyhab comment You might as well buy gbtc or mstr as they buy spot.
+
+Or... you know... take control of your financial freedom and retirement by buying Bitcoin yourself and locking it away in cold storage. 
+
+Not your keys, not your Bitcoin. 
+hftqnub comment But they just want to "fit in" with Canada and the rest 
+q3pp5a submission Can we buy Bitcoin via Fiat Money? 
+hftfpy8 comment I like cheese. 
+hftexdn comment You buy Bitcoin with fiat 
+hftd9jv comment How else are you gonna buy it.. with hope? 
+hftjjny comment Yes. Yes we can! 
+hftkknc comment No sorry you can’t 
+hftlury comment You can only buy a Fiat with this money, unfortunately.. 
+hftvnyw comment Yes you can 
+hfu3zdr comment Nice try FED 
+hftcxz5 comment Uh what 
+hftd04h comment No 
+q3psla submission 🤣😂 
+hfw13q5 comment Spot on 
+hfvwqbk comment Plane runs out fuel at some point. See ya when you land. 
+hfx8x4w comment Too soon 
+hfz8tj7 comment [Oh no, it's an Airbus.](https://www.youtube.com/watch?v=KEH7OpnA-I4) 
+hfvy05g comment We landin on the moon, though! 
+hfz8uwb comment https://www.youtube.com/watch?v=KEH7OpnA-I4 
+hfx9046 comment Definitely gonna happen before amc 
+hfvy8a1 comment You’re on the test flights. Actual liftoff doesn’t happen until after the markets tank. 
+hfvyeo9 comment Good comeback!  I actually unloaded a bunch with the last run, so hoping we dip so I can load back up! 
+hfvyopw comment 🤜🏻🤛🏻 
+q3pstd submission The case for bitcoin 
+hftipto comment Took me a couple of reads to figure out that OP *did not* work at J. P. Morgan. 
+hftus00 comment How did you end up with 110k in the bank?  I’m surprised that hasn’t been asked. 
+hftdgg7 comment Banking system isn't your downfall. It isn't responsible for your earning capacity. You did 4.75 worth of work and got paid accordingly. If you did $100 worth of work you'd be getting paid $100/hour. 
+hfumjep comment Bitcoin is the future! People dismiss it because of it’s high price but they don’t realize we have a long way up to go. 
+hfu0ri1 comment Worked and lived at home. 
+hfth3u5 comment I had a stroke reading this 
+hftmuup comment Before you write BS like this you are responsible for understanding that people are not always «paid what they’re worth» and that wage does not equal value 
+hfthctf comment I had 110,000k in the bank earning 3 dollars a month. 
+hfu1dia comment Nice.   Yep, that’ll do it lol 
+hfvijeo comment OP worked at McDonalds. If they're capable of getting a better job, they would have already. How many parents are raising their kids today to work at McDonalds in the future? 
+q3pv4v submission Do you think Bitcoin is future ? 
+hftds24 comment Read the bitcoin standard, look some podcasts as What Bitcoin Did, or read Lyn Alden’s blog. 
+hfteyxt comment No Bitcoin is the present 
+hftfvu6 comment trading? you don't sell the future. you buy. 
+hftktme comment I'm feeling more and more at some point people are going to lose faith in fiat and mass fomo into crypto especially BTC. 
+hftz822 comment Bitcoin is the present. 
+hftdzhs comment yes 
+hfteiiz comment Def 
+hftm4fd comment I agree, the current banking system is a joke. Its not really a question anymore. 
+q3pvp5 submission BITCOIN IS THE FUTURE MONEY. 
+q3pww9 submission What would be an example of a Black Swan event/threat that threatens the Bitcoin? 
+hftqhpe comment 100,000 literal black swans start destroying all the internet infrastructure 
+hfv623b comment Well I can think of a few:
+
+1. Asteroid hits the planet and kills all human life
+2. Solar mass ejection washes earth in EMF frying all electronics
+3. Magnetic poles reverse washing the earth in EMF frying all electronics
+
+Here are some things that would make it crash to near zero for a while.
+
+1. Fatal flaw (I mean fatal) is discovered in `secp256k1` making it trivially factorable
+2. Mathematicians solve the 3000 year mystery of how to trivially factor polynomial curve arithmetic (EC)
+3. Mathematicians disprove the Riemann's hypothesis 
+4. Someone develops (in stealth) new ASIC orders of magnitude more efficient than existing miners and builds enough to take the lions share of mining.
+5. Some state actor secretly coops 51% of the pools for censorship.
+
+Most of these events (except [4] and [5]) would be so cataclysmic that the effect on bitcoin would be the least of your worries.
+
+I put the odds of the end-of-the-world stuff at 0.1%.  I put the odds of any of the other five happening at about 1%
+
+But honestly the most likely is for it to be Taxed to death.  Here's a US example, but you can change the names for your home if you wish.
+
+The Government could make Bitcoin illegal (or impractical) easily with the swipe of a pen.
+
+Enforcing the new status is what is difficult.  Very difficult.
+
+Easiest (and evilest) would just be to do the following:
+
+1. Decree that bitcoin is property of type "crypto"
+2. Decree a property tax on all property of type "crypto"
+3. Decree the property tax on type "crypto" to be 20% annually
+4. Have the IRS enforce the property tax
+5. Ask the IRS to review all 2019 taxes for anyone answering "yes" to the HODL question
+6. Audit anyone that answered "Yes" in 2019 but didn't pay in 2022
+
+Lying on taxes is a fairly frequent past time, but even if you flee the US, they can always McAfee your ass.
+
+If the above happens, holders of crypto that choose to comply with the law would have to sell 20% of their crypto (by law) every year to pay taxes. 
+hfux0v4 comment A literal meteor the size of texas 
+hftnnyq comment Time traveler killing baby Satoshi Nakamoto. 
+hfte6rr comment Satoshi’s Wallet become active.
+
+I’m not worried about government banning bitcoin anymore. I’m not worried about quantum computing either. 
+hftjcks comment A bug. But then we fork and continue on. 
+hftoh1m comment physical war or cyber war. 
+hfu1a8j comment 1. Satoshi’s wallet activates. 
+
+2. Tether collapses or is banned. 
+
+Really my two biggest fears. 
+hfthrpk comment I would say USDT, if I am not mistaken a lot of transactions go through USDT, not to mention the vast and various alt coins contracts. If that bobble bursts - things might not look so hot. 
+hftdvh2 comment Someone breaking the AES256 easily. 
+q3qbng submission NFT marketcap site. 
+hftoa9w comment Your submission has been flagged for removal because it is considered off topic for the Bitcoin subreddit.
+
+^^I ^^am ^^a ^^bot ^^and ^^cannot ^^respond. ^^Please ^^contact ^^r/Bitcoin ^^moderators [^^directly ^^via ^^mod ^^mail](https://www.reddit.com/message/compose?to=%2Fr%2FBitcoin) ^^if ^^you ^^have ^^questions. 
+q3qd20 submission what was that ratio number? 
+hfth8l2 comment Probably you are thinking of the Mayer Multiple.  
+Chart here: https://stats.buybitcoinworldwide.com/mayermultiple/ 
+hfthdo4 comment That's it! Thank you! 
+q3qf47 submission Investors Are Preferring Bitcoin Over Gold, According to JP Morgan 
+hftm07f comment tldr; JP Morgan Chase has listed three reasons why Bitcoin broke through key resistance levels this week, reclaiming its trillion-dollar market cap. The investment bank believes institutional investors are investing in Bitcoin as an inflation hedge that is superior to gold. The lightning network is helping Bitcoin serve as a medium of exchange, alongside a store of value. The US Federal Reserve has confirmed that it has no intention to ban cryptocurrencies.
+
+*This summary is auto generated by a bot and not meant to replace reading the original article. As always, DYOR.* 
+hftvmoz comment Data needed 
+hftqfc5 comment How dare you post such a bold opinion in THIS sub? 
+q3qkf3 submission We all know BTC is digital gold that will replace physical gold as a store of value, but what will happen to physical gold in the future? 
+hftjlqn comment I don't think BTC will replace gold entirely: Yes it will grab some of the market cap of gold and after some time it will be more valuable as whole as all of the gold on the market. But there is no reason why gold and bitcoin can't be coexisting as store of value. And as store of value there are also other asset classes like real estate.
+I mean there are a lot of reason why we buy bitcoin instead of gold. But one of them is clearly:
+Gold is relativly boring ;) 
+hftilfn comment I say we turn it into the 3 sea shells from demolition man. 
+hftjlof comment Elon will mine it from asteroids 
+hftlwk1 comment It will be at the same price it was one bitcoin crashed all those other times. Like this next one coming up…
+It is used for jewelry electronics and much more. People talk about dips, hey this is the dip for gold…
+Someone out there is going to make billions into trillions….   Every presidency has some sort of catastrophe.  We’ll see what Biden has in stored 
+hftmv31 comment There will always be those who want physical gold instead of digital gold for the sole reason they can hold it. But if physical gold was release from it’s expensive value, there are some interesting physical and chemical properties that could be explored to benefit people in ways other than a store of value. It’s only my late night hypothetical that is keeping me up tonight 
+hftmjqm comment This sounds smart to me lol 
+hftmmuk comment But why will he mine it? To accumulate value or to use as a super conductor in some battery project? 
+hftmioy comment Interesting take! 
+hftwoke comment You are right, but I think an asset of "store of value" has some kind of cycle of how the market value it. I mean when the gold price drops many operations to mine gold are not profitable anymore and over the years because the gold supply would slower grow, the price will adopt to that and rise.
+Also if the price increase, then it makes suddenly sense to filter a cubic meter of dirt from the ground for a gramm of gold.
+It looks like if you zoom out on a timescale large enough a "store of value" will do only one thing: hold and increase its value 
+hftppfs comment silver is the best conductor, by a pretty big margin. 
+q3qnof submission Former U.S. Treasury Secretary: Strict Regulation Will Benefit Cryptocurrencies 
+hftj72e comment It already is one of the key innovations of this period. 
+hftlr6f comment Lies 
+hftpa35 comment The Bitcoin protocol is already strictly enforced through code and consensus. Government regulation is pointless and undesired. Not to mention ineffective. 
+hftmlue comment >The crypto community needs to recognize this and needs to work with governments
+
+Nothing prevents a government from submitting a BIP ("Bitcoin Improvement Proposal") and work their way through the approval process.
+
+If their proposal makes sense, it stands a decent chance of getting approved. Next, it could reach the quorum of approving nodes on the Bitcoin network and get rolled out in a general fashion across the network.
+
+In fact, any government could do that today already.
+
+They just need to get used to the trappings and procedures that govern the Bitcoin Improvement process.
+
+If they really want to participate, the very first thing that strikes me, is that they haven't even tried.
+
+Note that most people's improvement proposals are not deemed to be improvements at all. For government-originated "ideas" that is possibly even worse.
+
+Hence, these governments won't be able to manipulate their parliaments into ignorantly voting for something that they clearly do not understand and of which they are clearly unable to predict the unwanted consequences, and then still hope in vain that the Bitcoin community would take their notoriously bad ideas into consideration. It just doesn't work that way. 
+hfu4gt0 comment Bitcoin doesn't need to be benefited. Bitcoin doesn't want to be benefited. 
+hfw5x4r comment Suck my ass Larry Winters 
+q3qw0i submission Found old wallet.dat but isn't letting me transfer anything out 
+hftk9p2 comment Export out the private key for the address that has the coins and then import into Electrum wallet and spend from there.
+
+Piece of cake! 
+hftmn55 comment Okay so here's a way 
+
+Please do backup your wallet.dat file in multiple places first 
+
+Download bitcoin-qt client on windows 
+
+1) create a folder foo (any name, any directory)
+
+2) copy the file wallet.dat into folder foo and rename the wallet to wallet.dat
+
+3)on the GUI click Window->Console and type into the > field: help loadwallet which will tell you bunch of stuff (you can read it, or skip to next point)
+
+4) type loadwallet /path/to/your/folder/foo (change it to your actual path where folder foo is, on windows eg C:\Users\user\Downloads\foo)
+
+5) wait, just wait for a while 30 mins when done you will see sth like:
+
+    { "name": "/home/user/Downloads/foo/", "warning": "" }
+
+6) got to File->Open Wallet -> foo (your name should be listed here)
+
+7) On the right side there is now a dropdown menu where you can selected your open wallets (if it does not appear you had no other wallet open, also ok)
+
+
+(Since the wallet is now located in the folder foo and outside the datadir, you might want to close your node and copy the folder into the wallets directory in your datadir; I just wanted to recover the wallet, clean it and send the funds to the default wallet deleting foo anyway) 
+hftq3es comment Go to console, type export priv key.
+
+Import the key you get into electrum! 
+hftkov9 comment export the wallet.dat and import into Electrum? I tried that and it gave me some really long error. 'electrum wallet open 'cannot read file UnicodeDecodeError('utf-8', b'\\x00\\x00\\x00\\x00\\x00 etc.... :( 
+hftmz8a comment u/sahaquil hope this works if not tell me where there's a problem 
+hftquks comment That didn't work, showed 0 balance and then did a sweep and Electrum gave me an error. I can clearly see the BTC balance in Bitcoin Core Wallet so not sure what the heck is going on. Trying the method u/sonuishaq67 suggested and seeing if that'll help. 
+hftm1ru comment No no. Export the private key of the address which has the balance. Using console:
+
+^(dumpprivkey "address")
+
+And then when you have the private key, you can make a new electrum wallet with that key and spend from there.
+
+:) 
+hftpvbh comment trying this now, I'll let you know if its working 
+hftr01q comment Paste the address in the block explorer to see if you actually have any coins. I don't think core is synced properly, which is why you might see an unconfirmed balance. 
+hftrwfr comment Well that's frustrating says I have 0 BTC and 0 transactions from the address I pasted in but in my transactions on bitcoin-qt I have received amounts from localbitcoin and other exchanges awhile back so it should have transactions there. 
+q3qw7l submission A HUNTING SNAKE 
+hfubb4r comment Your submission has been flagged for removal because it is considered off topic for the Bitcoin subreddit.
+
+^^I ^^am ^^a ^^bot ^^and ^^cannot ^^respond. ^^Please ^^contact ^^r/Bitcoin ^^moderators [^^directly ^^via ^^mod ^^mail](https://www.reddit.com/message/compose?to=%2Fr%2FBitcoin) ^^if ^^you ^^have ^^questions. 
+q3qw8x submission https://play.google.com/store/apps/details?id=com.Dumadu.BlockEscape 
+hfubb79 comment Your submission has been flagged for removal because it is considered off topic for the Bitcoin subreddit.
+
+^^I ^^am ^^a ^^bot ^^and ^^cannot ^^respond. ^^Please ^^contact ^^r/Bitcoin ^^moderators [^^directly ^^via ^^mod ^^mail](https://www.reddit.com/message/compose?to=%2Fr%2FBitcoin) ^^if ^^you ^^have ^^questions. 
+q3qwwc submission From Virtually Worthless, To Trading At $54,000 Per Coin 
+hfusbze comment From worthless to priceless. 
+
+The story of why I will never sell BTC. 
+hfto6hs comment This is world's biggest brands: We disinclined to acquiesce to your request. 
+hfu26at comment 🚀 
+hfvhhs9 comment Yes, if you bought BTC 10 years ago you would be rich now 
+q3qy04 submission Daily Discussion, October 08, 2021 
+hfty8kt comment Congrats to everyone who held through the last 6 months of fud and bullshit. 
+hfu14j4 comment $64,854 USD BTC AHT  
+
+
+At $55,800 as of this moment, we are only $9000 away from a NEW ALL TIME HIGH!  
+
+
+Considering we have climbed roughly $15,000 in around 9 days, things are looking pretty darn splendid!  
+
+
+Who else is feeling excited?! 
+hfwjjym comment this sub is depressing...we are in a 'dip' that is 11k higher than a week ago. if you are seriously bummed out about the price right now you should seek out a therapist 
+hfty70z comment One of my goals is: One total BTC in my portfolio. That is some flex. 
+hfwnh55 comment Just did my weekly Friday $150 BTC purchase.
+
+God speed fellow astronauts 👨‍🚀 🚀 
+hfubl5a comment Imagine if stocks in China and US keep falling and Bitcoin doesn't follow them this time, game over Q4 
+hfuu49c comment PSA: Every day the floor rises. It's not the top that's important. 
+hfvl1ia comment Say it with me… consolidation 
+hfx3501 comment Lol. Woke up and started reading these comments. Freaked out and checked the price and it's 54K. 🤣 
+hfu07ma comment [deleted] 
+q3qzpn submission Recently in India the countries Largest crypto exchange crossed the largest stock broker. Lmao this idiot thinks crypto isn't long term. 
+hftksyg comment FYI Zerodha main business is F&O which again is short term and more risky than hodling Bitcoin. This sums up how the these stock guys just wants this makret to go dead as they missed the dip😝 
+q3r63t submission What are the key factors behind Bitcoin's recovery? 
+hfu1u3g comment The news just provides noise. The only thing that really matters on the macro scale is bitcoin's hardness and it's issuance mechanics. 
+hfvqo1d comment Recovery? Was something wrong with Bitcoin that I didn't hear about? 
+q3r67i submission US FDIC Said to Be Studying Deposit Insurance for Stablecoins，So-called pass-through coverage would insure the holders of these tokens against losses up to $250,000 if the bank holding the collateral were to fail. 
+q3r9xj submission How do we know coinbase has enough bitcoin to cover us if we all withdraw at once? 
+hftp2kt comment As long as their vaults remain private and unverifiable, they aren't worthy of the trust they ask for. 
+hftomi4 comment https://www.proofofkeys.com/
+
+**Don't forget to participate!**
+
+Upvote for visibility! 
+hfty22m comment We don't.
+
+We'll see if they survive the next [proof of keys day](https://www.proofofkeys.com/) 
+hftmp3d comment Dont hodl on Exchange. Simple 
+hfu4qij comment most likely they dont 
+hfu9asw comment A. They don't have nearly enough
+B. They will just stop withdrawals 
+C. Not your keys not your coins. 
+hfts8vq comment >How do we know
+
+You don't.
+That's why you should never leave your bitcoin on the exchange. 
+"Not your keys" and all that 
+hftvkqf comment Don’t trust. Verify 
+hfvrqw2 comment You are not buying bitcoin from coinbase on coinbase. You are buying it from sellers who are selling bitcoin there. Sellers must deposit bitcoin to be able to put up a sell order for it. Buyers must deposit fiat to be able to place a buy order. Coinbase just collects exchange fees. 
+hfwfkkh comment Why would a company making endless streams of money gamble in such a way? 
+q3rfjb submission "Bitcoin is a great store of value" says Mark Cuban 
+hfvu7s2 comment Your submission has been flagged for removal because it pertains primarily to altcoin discussion and/or promotion. Altcoins are off topic for the Bitcoin subreddit. Please post in the subreddit appropriate to that altcoin instead. Thank you.
+
+^^I ^^am ^^a ^^bot ^^and ^^cannot ^^respond. ^^Please ^^contact ^^r/Bitcoin ^^moderators [^^directly ^^via ^^mod ^^mail](https://www.reddit.com/message/compose?to=%2Fr%2FBitcoin) ^^if ^^you ^^have ^^questions. 
+hftvjqs comment Cuban is basically clueless lol 
+hftp18u comment No shit, Sherlock! 
+hftz124 comment What did he just say, because first I have the idea same as this about the bitcoin but now my mind moves. 
+hfu2ua6 comment blablabla, says some name 
+hfu4vdu comment Math dictates it’s beyond the best version of a monetary system ever created. 
+hfu7ehl comment To some extent you can except it but on the other hand there is no choice to make it happen anymore. 
+hful805 comment Haha, fun to see his evolution over the years. 
+hfvkp5n comment Better than bananas? 
+hftu8xu comment Nah man you can never look for Sherlock Holmes, this is the way. 
+q3rjsi submission NFT developer runs away with $ 2.7 million : City Telegraph 
+hftoac0 comment Your submission has been flagged for removal because it is considered off topic for the Bitcoin subreddit.
+
+^^I ^^am ^^a ^^bot ^^and ^^cannot ^^respond. ^^Please ^^contact ^^r/Bitcoin ^^moderators [^^directly ^^via ^^mod ^^mail](https://www.reddit.com/message/compose?to=%2Fr%2FBitcoin) ^^if ^^you ^^have ^^questions. 
+q3rldt submission Who wants their bitcoins to be moved around? Can move them around my one wallet. 
+q3rtya submission Something Big Is Brewing With Bitcoin 
+q3rx2i submission Bitcoin Maximalists: Exploiting Nassim Taleb’s Minority Rule 
+hfufhwt comment who ? 
+hfvqego comment It's actually a well-written, thought provoking article. If that's the sort of thing you're interested in. 
+hfxswb6 comment Aunty Fragile 
+q3rxku submission Best Alternative to Facebook 
+q3rzas submission Bitcoin's historical corrections 
+q3s348 submission If you are a Mt Gox creditor and haven't voted, then do so now, or lose your money. 
+hfturvv comment I only had 10 cents on mt goxw 
+hfufphm comment How to vote? Please share the link, i am one of them lazy feckers, as you can see 
+hfuhue2 comment Maybe post some MK meme to boost the upvotes... 
+hfvzooj comment I'd say a good chunk of those coins are linked to silkroad and people aren't claiming them because of that. 
+hfv9w1f comment I would love to vote but for the 15th time in gawd knows how many years, I cant log in to the website. 
+hfxc7he comment Beverly hillbillies or Gillian island 
+hftvv0i comment So about 5 Million in today's value? 
+hfu21sl comment Do it for your fellow coiners? 
+hfunla8 comment You aren't voting for some political candidate here.  You are voting for whether you want your Mt Gox money, or not.
+
+https://claims.mtgox.com/
+
+https://www.mtgox.com/img/pdf/20211006_000_announcement_en.pdf 
+hfuhxec comment Check /r/mtgoxinsolvency 
+q3s3f7 submission Michael Saylor: The Implicit Endorsement Of Bitcoin By Major Banks And Regulators Is Going To Accelerate The Collapse Of Gold And The Rise Of Bitcoin 
+hftvhp3 comment Gold won’t collapse 
+hftrvs7 comment tldr; Microstrategy CEO, Michael Saylor, tweeted, “The implicit endorsement of Bitcoin by major banks and regulators is going to accelerate the collapse of #Gold and the rise of #Bitcoin as the preferred safe-haven store of value for both institutional and retail investors” Saylor’s comments came after JP Morgan said Institutional Investors Consider Bitcoin as an Inflation Hedge.
+
+*This summary is auto generated by a bot and not meant to replace reading the original article. As always, DYOR.* 
+hfub6y7 comment I love that pic of Saylor.
+
+Instead of just looking cartoonishly enlightened, that grimace makes him look like Michael Saylor The Destroyer! 
+hfufd32 comment And because playing with infinitely abundant & non-divisible non-verifiable non-portable rocks are fucking stupid. 
+q3s7tn submission Institutions buying Bitcoin rather than gold as inflation cranks up - JPMorgan 
+hfty6sr comment Bitcoin is better than gold. 
+hftrvm2 comment tldr; According to JPMorgan, institutional investors are hedging against inflation with Bitcoin. The recent increase in price for BTC was predominantly attributed to institutional investors looking for a hedge to inflation. The momentum toward Bitcoin is in contrast to a JPMorgan report in May, when analysts noted big investors were switching out of Bitcoin and into traditional gold.
+
+*This summary is auto generated by a bot and not meant to replace reading the original article. As always, DYOR.* 
+q3sbn0 submission I think many people are used to the fluctuation of BTC 
+q3scd3 submission How certain can we be about this bull run? is it done or has it just begun? 
+hftsft2 comment > would it still be safe to jump in bitcoin at this price?
+
+nobody knows
+
+> I'll be honest I am investing money I can't afford to lose
+
+I'm predicting this will end in tears. 
+hftsjwr comment **Never put in more money than you can afford to lose. Simple a that.**   
+
+Nobody knows what tomorrow will be. But longterm the likelihood of bitcoin becoming the best store of value ever is increasing from day to day. 
+hftthpv comment 
+>I'll be honest I am investing money I can't afford to lose, it's the only way I can make it worth while because I don't care for making a couple dollars or 10 bucks. I need hundreds at least.
+
+**You WILL lose all your money. If not now, you will lose it later on.**
+
+Bitcoin wasn't created for you nor me to get rich quick, it's a tool to protect us from oppression, censorship and helps to keep value of our savings, not losing due to inflation. 
+
+
+>I'm going to need to take the money out in 2 weeks, would it still be safe to jump in bitcoin at this price?
+
+**Nobody can see the future.** Any YouTuber, pretending to figure it all out is lying. 
+hfu0isn comment > I am investing money I can't afford to lose
+
+Don't 
+hftt4sm comment BTC not for you. In fact crypto and stocks aint for you either based on how you describe your situation.
+
+If quick wins were real we would all be millionarres.
+
+Please be senisible with your money. 
+hftxdno comment Please do not do this.  You say you "need" hundreds at least, and also that you "need to take the  money out in 2 weeks".  So either you're a gambler/emotional investor (needing to make hundreds for the investment to be worth it), or you need the hundreds in profit because in 2 week's time you owe **more** than your principal.  Which means if it goes sideways you're still fucked.
+
+I would advise you to honestly look at what you need the money for and calculate your expected value.  Imagine the probability of gain/loss and magnitude of it as a normal distribution in 2 weeks for lack of any better estimate.
+
+If you have $1000 now...
+
+* You need $500 in 2 weeks -> probably it's OK to invest, but have the strength to jump out if the price drops 25% to $750
+* You need $1000 in 2 weeks -> don't invest.  It's just as likely to go up as down, and you can't afford down.  Further, if it goes up and you make $100, you only see $70 of it because of taxes (give or take, I do not know your financial situation, 30% is just an easy tax rate in between min and max for short term gains).  So expected value is skewed in the "house's" favor
+* You need $1500 in 2 weeks -> DO NOT INVEST.  Your expected value is almost guaranteed to be awful.  If you need to make a $1500 payment, you need to make maybe $700 -- not $500 -- because of taxes.  Bitcoin will **not** go up 70% in 2 weeks.
+
+It is not a popular opinion, but in many cases where you "need" money, if you sit down and realize you just won't have it realistically suddenly alternatives come to mind.  Hotel -> hostel, plane -> bus, restaurant -> cook.  Obviously medical stuff, debts, family emergencies are different, but don't risk money you think you need before exploring alternatives. 
+hftsxyj comment Literally no one knows - be careful because price could drop just as easily as moon. With crypto you need to be able to handle substantial short term losses if the price drops, in the expectation of long term gains (and historically we’ve had very good long term gains). Don’t put yourself in a position where a drop causes you financial hardships 
+hfttch1 comment This is simply a losing strategy! Never invest money you can't afford to lose and even though we have strong fundamentals supporting the bitcoin market the is always a possibility of market tanking for no apparent reason (which would later be discovered as some tweet or high leverage in markets)... Stay safe yo! 
+hftsubl comment Lol if you are up a few hundy and you need the money in 2 weeks, I'd cash out asap 
+hftt19n comment With a time horizon that short, you are risking major losses. 
+q3sh6c submission I would like stake my crypto in coinbase or trust wallet, afterr how many days I'll start seeing my rewards appear in my wallet? 
+hftz9ke comment Your submission has been flagged for removal because it is considered off topic for the Bitcoin subreddit.
+
+^^I ^^am ^^a ^^bot ^^and ^^cannot ^^respond. ^^Please ^^contact ^^r/Bitcoin ^^moderators [^^directly ^^via ^^mod ^^mail](https://www.reddit.com/message/compose?to=%2Fr%2FBitcoin) ^^if ^^you ^^have ^^questions. 
+hfttevc comment [wrong sub](https://www.reddit.com/r/CoinBase/) 
+hfturyw comment You don’t stake Bitcoin. 
+hftvrn8 comment Go to the sub of the specific crypto you’re interested in staking, and you will find an infinite number of posts asking this very same question (and lots of help). As others have noted, you cannot stake BTC, however. 
+hftwyn8 comment Thanks for the info 
+q3smqm submission JPMorgan: "institutional Investors Dump Gold for Bitcoin" 
+hftve6m comment No institutions before regular ppl or else they’ll try to ruin btc 
+hfuf8df comment Yeah because rocks are fucking stupid 
+q3spbt submission BITCOIN IS POWER! 
+hftxth2 comment I like your post, thanks for sharing your thoughts.   
+I had this same experience a couple years ago. I can’t imagine how demoralized Id be in this world today without Bitcoin and all the attendant and auxiliary knowledge I got (and am still getting). I would totally be that black-scribble-faced Wojack, lol.    
+Instead I have this incredibly resilient, vigorous hope (which is in scarce supply all around me).    
+That saying “fix the money, fix the world” 100% resonates— I find I think it almost daily. 
+hfug6ln comment Welcome to the game!  Don’t stop reading and researching Bitcoin - you will continue to have revelations !  Buy regularly and the dips and hold on for a wild rollercoaster ride ! 
+hftuq0g comment Bitcoin is a marvelous creation of a century! 
+hftvbvq comment Hodl 
+hfx3j93 comment Smells like rockets! 
+hfvzz3q comment the time that I invested in understanding Bitcoin was worth more than all my school and studying and stuff. sadly I was late to the party. 
+
+but next year I ll be OG bitcoiner \^\^ 
+hftvpwx comment HODL for life 
+q3srwl submission JPMorgan: Institutions Are Rotating Out Of Gold Into Bitcoin As A Better Inflation Hedge 
+hftuofz comment Reddit site administrators have elected to completely censor a domain that you posted. Subreddit moderators are not allowed to approve your [submission](https://www.reddit.com/r/Bitcoin/comments/q3srwl/jpmorgan_institutions_are_rotating_out_of_gold/) and were forced to remove it. Please consider trying again with a difference source. You may also appeal to reddit site administrators to reconsider banning well established and popular domains.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Bitcoin) if you have any questions or concerns.* 
+q3sso9 submission Bitcoin will be affected by government policy, but it will recover soon! 
+hftv50k comment the rainbow comes after the storm 
+hftvc8l comment maybe like 60k-63k at the end of this month I guess, 55k just a signal for something big is coming. 
+hftvaed comment Too early to really know 
+q3sxsj submission Bitcoin's sideways adjustment, can you still chase up and buy more now? 
+hfu2g1g comment Your submission has been flagged for removal because it pertains to general trading or market discussion, whereas r/Bitcoin tries to be less price oriented. Please visit r/BitcoinMarkets. Thank you.
+
+^^I ^^am ^^a ^^bot ^^and ^^cannot ^^respond. ^^Please ^^contact ^^r/Bitcoin ^^moderators [^^directly ^^via ^^mod ^^mail](https://www.reddit.com/message/compose?to=%2Fr%2FBitcoin) ^^if ^^you ^^have ^^questions. 
+q3sy31 submission JPMorgan: Institutions Are Rotating Out Of Gold Into Bitcoin As A Better Inflation Hedge 
+q3t7n9 submission How to work out tax on bitcoin (France) 
+hftyds9 comment > I don't really want to use the Koinly app
+
+Any reason for that?, it's by far the easiest way of calculating your tax, [they have all the French taxation rules in there](https://koinly.io/guides/crypto-tax-france/).
+
+You can just import CSV files of your transactions, you don't have to provide any identity information to koinly, if you're worried about that.
+
+Otherwise, you can just do it manually, following the tax rules in France. 
+hftykll comment You pay capital gains taxes when you sell your Bitcoin / cryptocurrency. Buying or holding Bitcoin is not taxed.
+
+When you sell, you are taxed on your gains, so the difference between purchase price and sale price. So if you bought EUR 1000 worth of BTC and sold it for EUR 2000, you're liable for tax on EUR 1000. At the 30% rate, that's EUR 300.
+
+You should keep records of your trades, so that you can accurately calculate your gains and have evidence to support your declaration.
+
+Note that if your gains in 1 year are less than EUR 305, you don't have to pay anything. This is a threshold value, not a deduction, so while for EUR 305 of gains you pay nothing, for EUR 306 of gains you immediately pay EUR 92. 
+hfu1w8c comment You fucked up, you have to pay 30% of gains on the whole first sale, then you purchased Bitcoin so you will be taxed 30% of gains on a second sale 
+hftyzme comment How do I do that (import CSV files)? 
+hfuuqqc comment So it's not a tax on total profits in the year, it's taxed for each transaction? So if I finish the year in loss, I still pay tax on the withdrawals? 
+hfu5xr7 comment But I only cashed into fiat once. So I pay 30% of the first sale and the second transaction is irrelevant, right? 
+hftzakw comment First get the files, from an exchange they would usually have an option to export your transactions to a CSV file. From a wallet you'll have the same option. For example in Electrum you just go to Wallet->History->Export.
+
+In koinly create a new wallet, with any name, and then click on Import File. Put the file there and it will create all the transactions. Do this for every exchange and wallet you have and koinly will show you the whole thing mixed together. 
+hfuwckd comment As I understand it, you can deduct losses, but only within the same tax year and you can't get a refund if you net profit is negative.
+
+So if you buy for 1000, sell for 2000, then buy for 1500 and sell for 1000, you've closed 2 trades: 1 with a profit of 1000 and one with a loss of 500. You pay taxes over 1000 - 500 = 500.
+
+If you buy for 2000, then sell for 1000, then buy for 1500 and sell for 2000, you've also closed 2 trades, with a net profit of -500. You pay 0 taxes, but you also don't get anything back. In addition, you can't carry over the loss to another tax year to compensate against gains in that year.
+
+This inability to carry over a loss can play a role when trading around the end of the year. Suppose that earlier in the year you made a poor trade and ended up with a EUR 1000 loss. But you've since entered into a new position that is sitting at a EUR 1000 profit, but that you haven't sold. If you keep your coins past the end of the year, your loss won't be taxed and you lose your ability to use that loss to offset a gain. But if you sell your coins before the end of the year, the gain of EUR 1000 is offset by the loss and you don't pay tax over it. You then buy back the coins at more or less the same price. But now your entry price point is higher, which means any future tax liability is reduced. 
+hfuawfc comment the second is irrelevant except if you used some money from the first sale that's meant for la direction des impôts 
+q3t8ju submission Clearing up some misconceptions. Is Bitcoin more risky than Bluechip stocks? 
+hftypdj comment Companies come and go.
+
+Bitcoin will still be there. 
+hfu2how comment I see betting on Bitcoin as betting on an entire industry vs betting on Apple or amazon stocks as betting on only an individual company 
+hftyqds comment Depends how old you are and how much risk your willing to take on. 
+hfu7nab comment It’s all about your risk tolerance. Personally I wouldn’t sell off my other investments to buy Bitcoin but those investments I have? They aren’t getting any of my leftover cash reserves at the end of the month, only Bitcoin because I want my Bitcoin position to be my dominant asset in my portfolio but gradually
+
+Dividends from those other investments go into Bitcoin too 
+hfuxqun comment Bitcoin is totally different from a stock 
+hftxul0 comment 100% into bitcoin?
+
+That's not right. Be careful 
+hfwkdpf comment Bitcoin will be as world shaping as agriculture, electricity, and the internet. 
+hftylu2 comment Do both and pay attention to your risk tolerance. 
+hftz2bn comment Shortterm - very risky, longterm absolutely not.
+
+Best you can do is to keep a small portfolio allocation in Bitcoin. Then you will be safe at all times. 
+hfv8171 comment PlanB showed that a 99% cash and 1% bitcoin portfolio outperformed stocks with lower risk.
+
+This assumes frequent rebalancing (i think annual)
+
+The lower risk comes from the fact that the maximum loss from a bitcoin crash is 1% of your portfolio 
+q3t9rd submission More!!Cz tweet🤣 I need more ... 
+hgrvhea comment Your submission has been flagged for removal because you have not provided sufficient context.
+
+^^I ^^am ^^a ^^bot ^^and ^^cannot ^^respond. ^^Please ^^contact ^^r/Bitcoin ^^moderators [^^directly ^^via ^^mod ^^mail](https://www.reddit.com/message/compose?to=%2Fr%2FBitcoin) ^^if ^^you ^^have ^^questions. 
+q3td4w submission What are the arguments against bitcoin in the future? 
+hftyztc comment > Since governments hate bitcoin so much (it devalues FIAT currency),
+
+Bitcoin doesn't devalue fiat currency, it's the own government that prints more money that devalues fiat.
+
+> governments will work toghether to destroy the whole thing. 
+
+You can't destroy Bitcoin, unless you destroy the Internet with it.
+
+> And that no matter how good and beneficial the technology behind bitcoin is, and that more and more people are buying in, the bitcoin market would still be ran by whale wallets, which are always at the mercy of the goverment.
+
+Short term fluctuations in price can be anything.
+
+> As the needs to launder money go down, bitcoin will also loses its value
+
+[Bitcoin is used less than fiat in terms of illegal activities](https://www.forbes.com/sites/haileylennon/2021/01/19/the-false-narrative-of-bitcoins-role-in-illicit-activity/). Makes sense since in Bitcoin every transaction remains public, forever, whereas that's not the case with fiat.
+
+> In 2020, the criminal share of all cryptocurrency activity fell to just 0.34% .
+> 
+> According to the UN, it is estimated that between 2% and 5% of global GDP ($1.6 to $4 trillion) annually is connected with money laundering and illicit activity.
+
+Here are some answers to the typical criticisms of Bitcoin:
+
+https://www.bitcoinisdead.org/well-actually 
+hftzwbe comment I think the main argument against Bitcoin is that not everyone will be able to be their own bank, so they would require some kind of intermediary to manage their Bitcoins, which kinda defeats the purpose of it.
+
+But I reckon not everyone has to have full control of their finances... 
+hfu68wv comment Maybe y’all should use game theory in your discussions instead of just predicting random shit.  If you look at motivations you might get a bit further than just guessing. 
+hfuyo5n comment Read the sovereign individual. It's about the falling returns from the governments  use of violence (force). Technology and the evolution of cyberspace (cryptography and the dematerialization of industry) has made it much harder to enforce the states will, to collect taxes and seize value. For example look at tax havens or city states offering more freedom for entrepreneurs (like Singapore). It predicts a world where governments splinter into micro communities that have much more limited reach. This is the book that predicted something like bitcoin in 1999. 
+hfv88si comment I 100% agree with your boss, but there is one aspect that he is overlooking.  The consent of the governed.  Most of the time governments either enforce rules that the public is kinda "Mehh" about, or they shove something down the peoples throats.  In the latter case, it has to be done in a totalitarian regime.
+
+So either the public needs to stay "mehh" about bitcoin, or the world needs to tend towards totalitarianism.  I actually think that nether of those assumptions hold as to zoom out over time.  500 years ago most of the planet was totalitarian.  Today a good percentage is democratic and trending more democratic.
+
+So when a non-totalitarian regime tries to do something that piss off the governed, the people say "fuck off".  For historical reference, see prohibition in the US in the early 20th century. 
+hfu90oc comment If people would just go and do some basic research we wouldn't have to discuss all of these lame hypothetical questions. Go learn the basics then come and bring some actual topics. 
+hfuhz5f comment If he’s going to use facts he’s pulled out of his butt to come to a conclusion then I don’t think you can convince him with anything. 
+hfujyl0 comment people who imagine govt as all powerful are the weakest most insignificant people in the world. we're not stopping. 
+hfvwac4 comment So those Panama papers or whatever the last one was called showed government leaders are NOT in Bitcoin. So your boss is wrong.. 
+hftymsr comment Ive been for bitcoin for a while now but one part of me thinks; if everyone is hodling so they can sell at the highest price when supply is limited, wouldn’t that mean a huge crash in price since everyone is trying to sell? 
+q3tk31 submission Nobel Prize in Economic Sciences: Satoshi Nakamoto 
+hfu7iyj comment He has been nominated before. But they don't award the prize do pseudonyms. 
+hfuf4t5 comment And a Nobel prize in Computer Science  
+And a Nobel prize in Cryptography  
+And a Nobel prize in Psychology  
+And a Nobel prize in Anonymity :) 
+hftzmdp comment It's the central bank (Riksbanken) of Sweden that grants that prize. So that would be highly unlikely, but feel free to nominate next year. I'm not sure if you can nominate unknown individuals, though. 
+hfuobxv comment There is no Nobel prize for economics.
+
+It’s a scam by a bank!
+
+The Nobel prizes were created by Alfred Nobel and he did not create one for economics. That prize was created decades later by the Swedish Riksbank, when Alfred was long dead. It isn’t even called Nobel Prize (officially) because they have no rights to this name (and the actual Nobel prize organisation is against it). It is called something lame like „prize in memory of Alfred Nobel“ - obviously meant to ride on the coattails of the real Nobel prize.
+
+And it worked too! Even here in this bank-hating sub, people think it’s a real Nobel prize and aren’t aware it’s just another rip off by a bank!
+
+I guess Nakamoto would not really want this prize. 
+hfu8duz comment Nah it's gonna go to someone who lobbied enough 
+hfu8ips comment These kinds of prices are useless, no need to want them for yourself or anyone else. Being awarded with Nobel Price does not mean you are smart or right or did any significant work. 
+hfvp4y5 comment Looks like they'll have to award it to Paul Krugman again, for Outstanding Achievement in the Field of Excellence. 
+hfuvqem comment In that article they claim that banks "need to make their own crypto currencies". Seriously,isn't that impossible? They would just make their own ledger and maintain it themselves,right? They'd have to reinvent BC but it's already been invented and adopted by many people. So why? Am I missing something? 
+hfuxv7s comment Shit's bigger than Nobel, brah. 
+hfv9hdv comment Yeah...um..about the Nobel Prize comittee.... 
+q3tlby submission Raul Paul says if btc ETF approved, btc will possibly go up to 400k this cycle. that would mean 4Trillion market cap. is this possible? 
+hfu73rg comment Never underestimate how much people want to earn money. They will FOMO like no tomorrow. 
+hfu078k comment @55k 1T Marketcap right now
+
+so if you use pre school math a 400k bitcoin would be around 7T 
+hfu7ro1 comment For those that don't know, it won't take anything like 3T to get the price that high. The mcap could be driven up to 4T for a few hundred billion if supply is short enough. 
+hfui7ex comment These guys are always over predicting the top, it is so people will hold waiting for the top when they dump. We will pump and hit ath but it won't be near that price this cycle. Mark my words. 
+hfu4upx comment BTC is an asset tethered to nothing more than pure supply and demand economics.  Is 400k possible? Why wouldn't it be.  Stocks are usually priced based on earnings and macroeconomic forces. BTC is an interesting combo of a hedge against inflation and societal instability, while simultaneously being a growing technology used for all kinda stuff.  It's like the internet, gold, and the second amendment morphed into a super asset.  How does one price that?  Good question... 
+hftzkf6 comment Gold market cap right now is about 11T, so it wouldn't be insane. 
+hfu410x comment that would depend on the type of ETF..  if it is cash settled futures based I think that could actually harm the market.. but if we can get an ETF that has physical BTC backing it that could be great 
+hfvvf1d comment For the record, Raoul Pal is a scammer and a grifter who will shill anything that makes him money, no matter how trashy it is. Look no further than his attempts to shill Ripple to his unsuspecting followers. 
+hfucoqm comment There already is a bitcoin etf in canada 
+hfupsxo comment Market cap just means the last sale price x the total number of coins.  Therefore, the market cap can go as high as people are willing to take it.  It is completely possible, especially with BTC, because there is nothing tethering it to a real world value, when compared to traditional stocks.  Its just supply and demand.  It is not effected by the weather, or shipping, or supply chains, or store closures, or overhead.  It does not function like a traditional stock/company.  Therefore, the sky is truly the limit.  Its just a matter of if/when. 
+q3tld3 submission Fantom Reaches New All-Time High of $2.21 — Is FTM a Good Investment? 
+q3tprj submission I've been thinking and maybe this is the best way .. because I think this is not a matter of joke .. this much asset feels like it needs a big person to take care of it .. or the government .. because I am the owner of this asset .. so I want to sell it at a price $ 30B ... 
+q3tv9g submission SEC Approves Indirect Volt Bitcoin Investment ETF 
+hfu16go comment > The Volt ETF provides exposure to companies engaged in bitcoin-related activities.
+
+So, like ETFs that have MicroStrategy in them... 
+hfu30p5 comment tldr; The SEC has approved the Volt Bitcoin ETF, which invests in tech companies with exposure to bitcoin and supporting infrastructure. This is a major step forward for the crypto market, which has so far not received any approvals for ETFs with direct exposure to Bitcoin. Galaxy Digital and Invesco also announced the launch of two crypto-related
+
+*This summary is auto generated by a bot and not meant to replace reading the original article. As always, DYOR.* 
+hfu1ams comment [deleted] 
+hfvgrud comment So, like DAPP or BITQ? Not really a step forward 
+hfvrozt comment Someone explain this like I’m 5. 
+hfxqnyo comment BLOK has the most exposure to MSTR and it's still a tiny percentage. 
+hfudoig comment This isn’t a futures etf. 
+hfvnm98 comment ...*the Volt Bitcoin ETF, which invests in tech companies with exposure to bitcoin and supporting infrastructure.*
+
+And it's certainly not Bitcoin either! 
+hfvnrct comment Doesn’t claim to be. 
+hfvs8u3 comment Wrong forum! 
+q3tylr submission Declaration 
+hfu1hd9 comment https://support.bitmain.com/hc/en-us/articles/900000736046-Certificate-of-Conformity-for-S19-T19
+
+don't know how much this will help if there's no CE marking.
+
+edit: I think [this](https://support.bitmain.com/hc/article_attachments/900001600583/TIM__20200602152709.jpg) is the specific one you need. 
+hfu1gvz comment Try to call the zoll, prolly annoying but that should work - or even contact bitmain, that’s the first thing I would try to do 
+hfu2fga comment That will be difficult without a valid Declaration of conformity. Another option: Import to Switzerland, since it is not EU. And "manual" export to Germany ;) 
+hfueeey comment First of all thanks for ur fast answer. Its a certificate.. i need declaration. Thanks 
+hfuebyu comment Thanks for ur fast answer. U think thats possible ? 
+hfvac1o comment With the right amount of preparation, i think yes.   
+How many miners are you talking about? 
+hfwcsdr comment 30 bro 
+hg797dl comment okay thats massive...this will cause some import tax issues for sure 
+hg84sag comment Check this:
+
+https://www.bakom.admin.ch/bakom/en/homepage/equipments-and-installations/non-compliant-equipment.html 
+q3tzux submission Prediction: Bitcoin will be at 500,000 by the end of the year. 
+hfu2g3u comment Your submission has been flagged for removal because it pertains to general trading or market discussion, whereas r/Bitcoin tries to be less price oriented. Please visit r/BitcoinMarkets. Thank you.
+
+^^I ^^am ^^a ^^bot ^^and ^^cannot ^^respond. ^^Please ^^contact ^^r/Bitcoin ^^moderators [^^directly ^^via ^^mod ^^mail](https://www.reddit.com/message/compose?to=%2Fr%2FBitcoin) ^^if ^^you ^^have ^^questions. 
+hfu1hdy comment Which year? 
+hfu1je6 comment Dream on. 
+hfu1k71 comment Put down the crack pipe. 
+hfu1n6j comment Hopefully I’ll be at 500 at the end of this year haha 
+hfu1p8v comment I see what you did there. 
+hfu1rho comment I mean, I hope your right because that's my mortgage paid off with fun money left over, but calm down lol 
+hfu1zow comment In Zimbabwean dollars? Probably 
+hfu21od comment You do understand that's a pump of 8+ Trillion $. 
+hfu27no comment "The" Year. Ah, THAT year! lol 
+q3u8me submission Former Treasury Secretary Compares Stablecoins to Casino Chips….Is this bullish for BTC? 
+hfu5068 comment Bullish 
+hfu30n6 comment tldr; Former US Treasury Secretary Steve Mnuchin has said that stablecoins shouldn’t be treated like “casino chips” and should be regulated and “freely transferable” while providing assurance that they’re backed by dollars. Stablecoins should either be invested in US treasuries, or backed by other highly liquid investments.
+
+*This summary is auto generated by a bot and not meant to replace reading the original article. As always, DYOR.* 
+hfuiorp comment The question is... how regulated or illegal are casino chips? 
+hfuv40q comment Everything Steve Mnuchin touches becomes poop 
+hfuanzk comment Invested in US treasuries? 🤦‍♂️ 
+q3u9zt submission wow , finally !!! you wanna mine BTC , click on this link , free BTC for you https://www.btcs.love/invite/208l7 
+q3ubaa submission My Device is Ready! How about yours? #BTC to the 🌕 
+hfuvywa comment Your submission has been flagged for removal because it doesn't meet the quality standards for /r/Bitcoin at this time. Please help keep the subreddit clean from low quality posts.
+
+^^I ^^am ^^a ^^bot ^^and ^^cannot ^^respond. ^^Please ^^contact ^^r/Bitcoin ^^moderators [^^directly ^^via ^^mod ^^mail](https://www.reddit.com/message/compose?to=%2Fr%2FBitcoin) ^^if ^^you ^^have ^^questions. 
