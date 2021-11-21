@@ -657,17 +657,28 @@ qjlm27 submission CoinCurrently - A variety of things
 hiqv7e2 comment Your submission has been flagged for removal because it is considered off topic for the Bitcoin subreddit.
 
 ^^I ^^am ^^a ^^bot ^^and ^^cannot ^^respond. ^^Please ^^contact ^^r/Bitcoin ^^moderators [^^directly ^^via ^^mod ^^mail](https://www.reddit.com/message/compose?to=%2Fr%2FBitcoin) ^^if ^^you ^^have ^^questions. 
-hiqtkwg comment Hello everyone. It´s been a little while since I wrote here but I am back with an update, a little mix of things.  
-  
-You can now add coins to your portfolio in different currencies if you want to see a specific coin in another currency. The total is still shown in the currency that is selected for the app.  
-  
-There are two new tabs in the market tab. You can now scroll through categories if you for an example only want to see stable coins or whatever,  
-There are also derivatives if anyone is interested in that.  
-  
-Hope you like it!  
-  
-iOS: https://apps.apple.com/us/app/coincurrently/id1543974454#?platform=iphone  
-  
+hiqtkwg comment Hello everyone. It´s been a little while since I wrote here but I am back with an update, a little mix of things.
+  
+
+  
+You can now add coins to your portfolio in different currencies if you want to see a specific coin in another currency. The total is still shown in the currency that is selected for the app.
+  
+
+  
+There are two new tabs in the market tab. You can now scroll through categories if you for an example only want to see stable coins or whatever,
+  
+There are also derivatives if anyone is interested in that.
+  
+
+  
+Hope you like it!
+  
+
+  
+iOS: https://apps.apple.com/us/app/coincurrently/id1543974454#?platform=iphone
+  
+
+  
 Android: https://play.google.com/store/apps/details?id=com.cryptium.coincurrently&hl=en&gl=US 
 qjlogh submission looking for techniques to avoid fees and getting onto the lightning chain 
 hir1qtr comment Your submission has been flagged for removal because it pertains primarily to altcoin discussion and/or promotion. Altcoins are off topic for the Bitcoin subreddit. Please post in the subreddit appropriate to that altcoin instead. Thank you.

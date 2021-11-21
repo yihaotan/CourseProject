@@ -6,6 +6,7 @@ import logging
 from collections import defaultdict, namedtuple
 from datetime import date, timedelta
 
+logging.basicConfig(level = logging.INFO)
 RedditData = namedtuple("RedditData", "id data_type text")
 
 
@@ -20,15 +21,15 @@ class RedditScapper():
         self.data_type = data_type 
         self.start_date = start_date 
         self.end_date = end_date
-        self.output = defaultdict(list)
         self.comment_cnt = 0
         self.submission_cnt = 0
+        self.output = defaultdict(list)
     
 
     def _get_pushshift_data(self, data_type, subreddit, start_date, end_date):
         base_url = "https://api.pushshift.io"
         url = f"{base_url}/reddit/{data_type}/search?&size=1000&after={start_date}&before={end_date}&subreddit={subreddit}"
-        print(f"The pushshift url is {url}")
+        logging.info(f"The pushshift url is {url}")
         response = requests.get(url)
         data = json.loads(response.text)
         return data["data"]
@@ -56,46 +57,41 @@ class RedditScapper():
         for date in date_submission:
             all_submission_ids.extend(date_submission[date])
         
-        print(f"The total number of submissions are: {len(all_submission_ids)}")
-        self.submission_cnt = len(all_submission_ids)
-        submission_cnt = 1
         for submission_id in all_submission_ids:
             submission = self.reddit_client.submission(submission_id)
-            print(f"Scrapping submission #{submission_cnt} {submission_id}")
+            self.submission_cnt += 1
+            logging.info(f"Scrapping submission #{self.submission_cnt} {submission_id}")
             submission_info[submission_id].append(RedditData(submission.id, "submission", submission.title))
             submission.comments.replace_more(limit=0)
             submission.comment_sort = "top"
             submission.comments.list()
             cur_cnt = 0
-            for comment in  submission.comments.list():
+            for comment in submission.comments.list():
                 if cur_cnt == comment_cnt: 
                     break 
                 submission_info[submission_id].append(RedditData(comment.id, "comment", comment.body))
-                print(f"Scrapping comment {comment.id}")
+                logging.info(f"Scrapping comment {comment.id}")
                 self.comment_cnt += 1
                 cur_cnt += 1
-            submission_cnt += 1 
         
         for date, submission_ids in date_submission.items():
             for submission_id in submission_ids:
                 self.output[date].extend(submission_info[submission_id])
         
-        return self.output
-
             
     def write_data(self):
         for date, data in self.output.items():
-            with open(f"bitcoin_subreddit_{date}_new.txt", "w") as handler:
+            with open(f"bitcoin_subreddit_{date}.txt", "w") as handler:
                 for d in data: 
                     handler.write(f"{d.id} {d.data_type} {d.text} \n")
 
 
 if __name__ == "__main__":
     reddit_scrapper = RedditScapper("bitcoin", "submission", date(2021,10,1), date(2021,10,31))
-    output = reddit_scrapper.scrape_data()
+    reddit_scrapper.scrape_data()
     reddit_scrapper.write_data()
-    for date, data in output.items():
-        print(f"The total number of submissions and comments for {date} is {len(data)}")
-    print(reddit_scrapper.submission_cnt)
-    print(reddit_scrapper.comment_cnt)
-    print("Scrapping done")
+    for date, data in reddit_scrapper.output.items():
+        logging.info(f"The total number of submissions and comments for {date} is {len(data)}")
+    logging.info(f"The total number of submissions are: {reddit_scrapper.submission_cnt}")
+    logging.info(f"The total number of comments are: {reddit_scrapper.comment_cnt}")
+    logging.info("Scrapping completed!")
