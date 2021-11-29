@@ -73,6 +73,7 @@ class RedditScapper():
                 logging.info(f"Scrapping comment {comment.id}")
                 self.comment_cnt += 1
                 cur_cnt += 1
+            break
         
         for date, submission_ids in date_submission.items():
             for submission_id in submission_ids:
@@ -81,17 +82,21 @@ class RedditScapper():
             
     def write_data(self):
         for date, data in self.output.items():
-            with open(f"bitcoin_subreddit_{date}.txt", "w") as handler:
+            with open(f"data/bitcoin_subreddit_{date}.txt", "w") as handler:
                 for d in data: 
                     handler.write(f"{d.id} {d.data_type} {d.text} \n")
+
+    
+    def run(self):
+        self.scape_data()
+        self.write_data()
+        for data, data in self.output.items():
+            logging.info(f"The total number of submissions and comments for {date} is {len(data)}")
+        logging.info(f"The total number of submissions are: {self.submission_cnt}")
+        logging.info(f"The total number of comments are: {self.comment_cnt}")
+        logging.info("Scrapping completed!")
 
 
 if __name__ == "__main__":
     reddit_scrapper = RedditScapper("bitcoin", "submission", date(2021,10,1), date(2021,10,31))
-    reddit_scrapper.scrape_data()
-    reddit_scrapper.write_data()
-    for date, data in reddit_scrapper.output.items():
-        logging.info(f"The total number of submissions and comments for {date} is {len(data)}")
-    logging.info(f"The total number of submissions are: {reddit_scrapper.submission_cnt}")
-    logging.info(f"The total number of comments are: {reddit_scrapper.comment_cnt}")
-    logging.info("Scrapping completed!")
+    reddit_scrapper.run()
