@@ -18,8 +18,6 @@ The goal of this project is to:
 ### Overview of functions 
 
 
-
-
 ### Implementation documentation 
 
 There are 2 main python files scrapper.py and sentiment_analyzer.py in the codebase.
