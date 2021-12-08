@@ -22,7 +22,7 @@ The goal of this project is to:
 
 ### Implementation documentation 
 
-There are 2 main python files scrapper.py and sentiment_analyzer.py in the codebase
+There are 2 main python files scrapper.py and sentiment_analyzer.py in the codebase.
 
 1. scrapper.py
 
@@ -31,24 +31,41 @@ There are 2 main python files scrapper.py and sentiment_analyzer.py in the codeb
 * There are 3 columns per file. The first column is the ID, the second column is the data type (submission / comment) and the third column is the text data.
 * To reduce the size of the dataset, only the top 10 comments are chosen for each submission.
 * Pushshift and Vader are required to scrape the Bitcoin subreddit data, as Vader cannot scrape data by date. 
-* For a given day, Pushshift scrapes all the submission ids while Vader scrape all the submission texts the comment ids and comments associated with submission id. This process contiunes from 2021-10-01 to 2021-10-31
+* For a given day, Pushshift scrapes all the submission ids while Vader scrape all the submission texts the comment ids and comments associated with submission id. This process contiunes from 2021-10-01 to 2021-10-31.
 
 2. sentiment_analyzer.py
 
 * The main responsibility of sentiment_analyzer class is to clean and preprocess data, perform Bitcoin sentiment analysis and implement a Bitcoin sentiment vs price visualization.
 * The cleaning and preprocessing portion involves the following steps:
-  1. Get the submission and comment text from each file i.e. bitcoin_subreddit_2021_10_01.txt
-  2. Remove emojis from the submission and comment texts
-  3. Tokenize the submission and comment texts into token (word)
-  4. Lowercase each token 
-  5. Lemmatize each token 
-  6. Stem each token 
-  7. Token is cleaned 
+  1. Get the submission and comment text from each file i.e. bitcoin_subreddit_2021_10_01.txt.
+  2. Remove emojis from the submission and comment texts.
+  3. Tokenize the submission and comment texts into token (word).
+  4. Lowercase each token.
+  5. Lemmatize each token.
+  6. Stem each token.
+  7. Token is cleaned.
 * The sentiment analysis involves the following steps:
-  1. Compute the polarity compound score for each token per day using Vader 
+  1. Update the Vader lexicon with custom Bitcoin sentiment keywords. The keywords are found in src/config.py. Examples of keywords include 'mooning': 1.0, 'tendie': 0.5 and 'paper': -0.5.
+  1. Compute the polarity compound score for each token per day using Vader.
   2. Compute the overall mean polarity compound score per day using numpy.
-* Use plotly to plot the Bitcoin sentiment vs price visualization. The x-axis is date while the left y-axis is Bitcoin sentiment (overall mean daily polarity compound score) and the right y-axis is the daily Bitcoin price
+* Use plotly to plot the Bitcoin sentiment vs price visualization. The x-axis is date while the left y-axis is Bitcoin sentiment (overall mean daily polarity compound score) and the right y-axis is the daily Bitcoin price.
 
 ![bitcoin_sentiment_vs_price](https://user-images.githubusercontent.com/9248134/145162940-bb65a9d2-814a-497a-bab4-0edb761dcb32.png)
 
 ### Usage documentation
+
+Install all the necessary python packages in requirements.txt.
+
+```
+pip install -r requirements.txt
+```
+
+
+Run the sentiment_analyzer.py. This will open a plotly graph of Bitcoin sentiment vs price in your localhost 
+
+```
+cd src
+python3 sentiment_analyer.py
+```
+
+
