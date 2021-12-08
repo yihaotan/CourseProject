@@ -54,19 +54,19 @@ There are 2 main python files scrapper.py and sentiment_analyzer.py in the codeb
 
 ### Usage documentation
 
-Git clone the repo
+Git clone the repo.
 
 ```
 git clone https://github.com/yihaotan/CourseProject.git
 ```
 
-Set up a virtual python environment (Optional)
+Set up a virtual python environment (Optional).
 
 ```
 python -m venv /path/to/directory
 ```
 
-Activate virtual python environment (Optional)
+Activate virtual python environment (Optional).
 
 ```
 source /path/to/venv/bin/activate
@@ -80,11 +80,16 @@ pip install -r requirements.txt
 ```
 
 
-Run the sentiment_analyzer.py. This will open a plotly graph of Bitcoin sentiment vs price in your localhost 
+Run the sentiment_analyzer.py. This will open a plotly graph of Bitcoin sentiment vs price in your localhost. 
 
 ```
 cd src
 python sentiment_analyzer.py
 ```
 
+Run scrapper.py. This will write 31 text files in this format bitcoin_subreddit_YYYY_MM_DD to the src/data directory (Optional). 
 
+```
+cd src
+python scrapper.py
+```
