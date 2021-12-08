@@ -77,6 +77,14 @@ Go to the cloned repo and install all the necessary python packages in requireme
 pip install -r requirements.txt
 ```
 
+Add the new keywords and score in src/config.py if you like (Optional).
+
+```
+{ ...,
+  'red': -1.0
+}
+```
+
 
 Run the sentiment_analyzer.py. This will open a plotly graph of Bitcoin sentiment vs price in your localhost. 
 
