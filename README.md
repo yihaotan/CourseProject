@@ -17,6 +17,43 @@ The goal of this project is to:
 
 ### Overview of functions 
 
+1. scrapper.py 
+
+
+```
+scrape_data(self, comment_cnt):
+```
+scrape data using VADER and Pushshift. The number of top comments per submission is less than or equal to the comment_cnt.
+
+```
+write_data(self):
+```
+write the scrapped data line by line to data/bitcoin_subreddit_{date}.txt. Example of data is 2021-10-01.
+
+
+2. sentiment_analyzer.py 
+
+```
+clean_data(self):
+```
+clean the data by converting the str data per day to word tokens.
+stopwords and emojis are removed from the each token.
+the tokens are also stemmed and lemmatized.
+the cleaned_data is of this format: {'2021-10-01': ['clean_data_1', 'clean_data_2'], '2021-10-02': ['clean_data_1', 'clean_data_2'].
+
+```
+generate_sentiment_scores(self):
+```
+generate sentiment score by using Vader.
+compute the mean overall compound score per day.
+
+```
+visualize_sentiment(self):
+```
+plot a bitcoin sentiment vs price per day for the month of Oct-2021 using plotly.
+the x-axis is date and the y-axis is a dual axis of sentiment score and bitcoin price.
+
+
 
 ### Implementation documentation 
 
@@ -39,9 +76,9 @@ There are 2 main python files scrapper.py and sentiment_analyzer.py in the codeb
   2. Remove emojis from the submission and comment texts.
   3. Tokenize the submission and comment texts into token (word).
   4. Lowercase each token.
-  5. Lemmatize each token.
-  6. Stem each token.
-  7. Token is cleaned.
+  5. Remove stopwords.
+  6. Lemmatize each token.
+  7. Stem each token.
 * The sentiment analysis involves the following steps:
   1. Update the Vader lexicon with custom Bitcoin sentiment keywords. The keywords are found in src/config.py. Examples of keywords include 'mooning': 1.0, 'tendie': 0.5 and 'paper': -0.5.
   1. Compute the polarity compound score for each token per day using Vader.
@@ -93,7 +130,7 @@ cd src
 python sentiment_analyzer.py
 ```
 
-Run scrapper.py. This will write 31 text files in this format bitcoin_subreddit_YYYY_MM_DD to the src/data directory (Optional). 
+Run scrapper.py. This will write 31 text files in this format such as bitcoin_subreddit_2021_10_01 to the src/data directory (Optional). 
 
 ```
 cd src
