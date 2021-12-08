@@ -31,11 +31,23 @@ There are 2 main python files scrapper.py and sentiment_analyzer.py in the codeb
 * There are 3 columns per file. The first column is the ID, the second column is the data type (submission / comment) and the third column is the text data.
 * To reduce the size of the dataset, only the top 10 comments are chosen for each submission.
 * Pushshift and Vader are required to scrape the Bitcoin subreddit data, as Vader cannot scrape data by date. 
-* For a given day, pushshift scrapes all the submission ids while Vader scrape all the submssison texts the comment ids and comments associated with submission id. This process repeats for each day in the month of Oct, 2021.
+* For a given day, Pushshift scrapes all the submission ids while Vader scrape all the submission texts the comment ids and comments associated with submission id. This process contiunes from 2021-10-01 to 2021-10-31
 
 2. sentiment_analyzer.py
 
-
+* The main responsibility of sentiment_analyzer class is to clean and preprocess data, perform Bitcoin sentiment analysis and implement a Bitcoin sentiment vs price visualization.
+* The cleaning and preprocessing portion involves the following steps:
+  1. Get the submission and comment text from each file i.e. bitcoin_subreddit_2021_10_01.txt
+  2. Remove emojis from the submission and comment texts
+  3. Tokenize the submission and comment texts into token (word)
+  4. Lowercase each token 
+  5. Lemmatize each token 
+  6. Stem each token 
+  7. Token is cleaned 
+* The sentiment analysis involves the following steps:
+  1. Compute the polarity compound score for each token per day using Vader 
+  2. Compute the overall mean polarity compound score per day using numpy.
+* Use plotly to plot the Bitcoin sentiment vs price visualization. The x-axis is date while the left y-axis is Bitcoin sentiment (overall mean daily polarity compound score) and the right y-axis is the daily Bitcoin price
 
 
 ### Usage documentation
