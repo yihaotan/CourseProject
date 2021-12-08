@@ -54,7 +54,26 @@ There are 2 main python files scrapper.py and sentiment_analyzer.py in the codeb
 
 ### Usage documentation
 
-Install all the necessary python packages in requirements.txt.
+Git clone the repo
+
+```
+git clone https://github.com/yihaotan/CourseProject.git
+```
+
+Set up a virtual python environment (Optional)
+
+```
+python -m venv /path/to/directory
+```
+
+Activate virtual python environment (Optional)
+
+```
+source /path/to/venv/bin/activate
+```
+
+
+Go to the cloned repo and install all the necessary python packages in requirements.txt.
 
 ```
 pip install -r requirements.txt
@@ -65,7 +84,7 @@ Run the sentiment_analyzer.py. This will open a plotly graph of Bitcoin sentimen
 
 ```
 cd src
-python3 sentiment_analyer.py
+python sentiment_analyzer.py
 ```
 
 
