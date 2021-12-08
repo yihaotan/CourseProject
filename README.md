@@ -49,5 +49,6 @@ There are 2 main python files scrapper.py and sentiment_analyzer.py in the codeb
   2. Compute the overall mean polarity compound score per day using numpy.
 * Use plotly to plot the Bitcoin sentiment vs price visualization. The x-axis is date while the left y-axis is Bitcoin sentiment (overall mean daily polarity compound score) and the right y-axis is the daily Bitcoin price
 
+![bitcoin_sentiment_vs_price](https://user-images.githubusercontent.com/9248134/145162940-bb65a9d2-814a-497a-bab4-0edb761dcb32.png)
 
 ### Usage documentation
