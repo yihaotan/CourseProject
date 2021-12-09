@@ -7,9 +7,9 @@ Please fork this repository and paste the github link of your fork on Microsoft 
 ## Objective
 
 The objective of this project is to:
-- scrape submissions / comments from the most popular Bitcoin [subreddit](https://www.reddit.com/r/Bitcoin/) between 2021-10-01 and 2021-10-31.
+- scrape submissions / comments from the most popular Bitcoin [subreddit](https://www.reddit.com/r/Bitcoin/) between 2021-10-01 and 2021-10-31 with [Pushshift](https://github.com/pushshift/api) and [PRAW](https://praw.readthedocs.io/en/stable/)
 - clean and preprocess the data.
-- perform Bitcoin sentiment analysis using [Vader](https://github.com/cjhutto/vaderSentiment) and [Pushshift] (https://github.com/pushshift/api)
+- perform Bitcoin sentiment analysis using [Vader](https://github.com/cjhutto/vaderSentiment)
 - implement a Bitcoin sentiment vs price visualization.
 - evalute sentiment result with external sources with [Crypto Fear & Greed Index](https://alternative.me/crypto/fear-and-greed-index/).
 
@@ -23,7 +23,7 @@ The objective of this project is to:
 ```
 scrape_data(self, comment_cnt):
 ```
-scrape data using VADER and Pushshift. The number of top comments per submission is less than or equal to the comment_cnt.
+scrape data using Pushshift and PRAW. The number of top comments per submission is less than or equal to the comment_cnt.
 
 ```
 write_data(self):
