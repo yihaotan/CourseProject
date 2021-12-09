@@ -13,6 +13,10 @@ The objective of this project is to:
 - implement a Bitcoin sentiment vs price visualization.
 - evalute sentiment result with external sources with [Crypto Fear & Greed Index](https://alternative.me/crypto/fear-and-greed-index/).
 
+## Presentation 
+
+Video link: https://youtu.be/dgw2Se1_CtQ
+
 ## Documentation 
 
 ### Overview of functions 
