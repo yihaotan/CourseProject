@@ -4,9 +4,9 @@ Please fork this repository and paste the github link of your fork on Microsoft 
 
 # Crypto Sentiment Analysis 
 
-## Goal 
+## Objective
 
-The goal of this project is to:
+The objective of this project is to:
 - scrape submissions / comments from the most popular Bitcoin [subreddit](https://www.reddit.com/r/Bitcoin/) between 2021-10-01 and 2021-10-31.
 - clean and preprocess the data.
 - perform Bitcoin sentiment analysis using [Vader](https://github.com/cjhutto/vaderSentiment) and [Pushshift] (https://github.com/pushshift/api)
